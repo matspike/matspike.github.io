@@ -1,4 +1,2 @@
 theme: jekyll-theme-hacker
-header {
-  display: none;
-}
+title: null
