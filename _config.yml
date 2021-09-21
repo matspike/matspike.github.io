@@ -21,7 +21,7 @@
 title: Origins & Evolution of Language 2021
 email: mspike@ed.ac.uk
 description: All origins, all the time
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/origins" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matspike
 github_username:  matspike
