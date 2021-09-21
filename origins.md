@@ -109,7 +109,7 @@ and listed (and linked) in each pre-reading. Aside from the Fitch text, readings
 This is a way to work collaboratively on annotating webpages and pdf documents with a group, as well as a way to make private annotations for yourself. Can you:
 
 1. Sign up and install the browser extension here: [Get started with Hypothesis](https://web.hypothes.is/start/)
-2. Join the class group with this link: https://hypothes.is/groups/KMGqZoBZ/linguistic-complexity-21
+2. Join the class group with this link: <https://hypothes.is/groups/jGErKdzg/origins-2021>
 3. Check if you can see the notes I've already made on Chrissy Cuskley's [brief introduction to language evolution](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf):
   * open the pdf in the browser
   * activate the hypothesis extension in your browser
