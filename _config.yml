@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Origins and evolution of Language 2021
+title: Origins & Evolution of Language 2021
 email: mspike@ed.ac.uk
 description: All origins, all the time
 baseurl: "" # the subpath of your site, e.g. /blog
