@@ -22,7 +22,7 @@ title: Origins
 email: mspike@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   All origins, all the time
-baseurl: "/origins_2021/" # the subpath of your site, e.g. /blog
+baseurl: "/origins_2021" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matspike
 github_username:  matspike
