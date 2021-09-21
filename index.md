@@ -33,7 +33,7 @@ notification of which tutorial group you will be in. The times and
 locations of each group are listed [here for Honours students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC10031_SV1_SEM1&period=YR)
 and [here for MSc students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC11112_SV1_SEM1&period=YR).
 
-If there are any remaining issues concerning the tutorial groups, please contact [Matt Spike](mspike@ed.ac.uk).
+If there are any remaining issues concerning the tutorial groups, please contact Matt Spike at <mspike@ed.ac.uk>.
 
 Quizzes
 -------
