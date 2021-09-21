@@ -100,7 +100,7 @@ and listed (and linked) in each pre-reading. Aside from the Fitch text, readings
 
 ### Hypothes.is
 
-This is a way to work collaboratively on annotating webpages and pdf documents with a group. Can you:
+This is a way to work collaboratively on annotating webpages and pdf documents with a group, as well as a way to make private annotations for yourself. Can you:
 
 1. Sign up and install the browser extension here: [Get started with Hypothesis](https://web.hypothes.is/start/)
 2. Join the class group with this link: https://hypothes.is/groups/KMGqZoBZ/linguistic-complexity-21
