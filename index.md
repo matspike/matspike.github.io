@@ -112,8 +112,8 @@ This is a way to work collaboratively on annotating webpages and pdf documents w
   * experiment with making your own highlights and private annotations.
 4. You can also make notes or ask questions on any page on the course website - and anywhere else on the web!
 
-Below you will find week-by-week materials for the entire course. You
-can find a [PDF version of the course schedule here](CourseOutline.pdf), and it is also available on Learn.
+Below you will find week-by-week materials for the entire course.
+<!-- You can find a [PDF version of the course schedule here](CourseOutline.pdf), and it is also available on Learn. -->
 
 ## Course schedule and materials
 
