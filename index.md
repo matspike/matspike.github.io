@@ -90,13 +90,26 @@ Further details on assignments in the next few days.
 -   [**Essay 2:** 1500 words, chosen from section B of the list of
     topics. Worth 60%. **Deadline, Thursday, 28 November, 12     noon.** ]{style="line-height: 1.65;"} -->
 
-## Readings and collaborative notes with Hypothesis
+## Readings and collaborative note creation with Hypothesis
 
 Do the readings **before** the associated lectures -- lectures are
 designed to elaborate on the reading material, and will assume you have already read it before class *and* done the quiz, and you'll be expected to talk about it. This is why the reading associated with the lecture in week 3 is listed under week 2, week 4 under week 3, etc. **Do the reading ahead of the lecture, you will thank yourself later.**
 
 The course draws a lot of material from Fitch's 2010 book *The Evolution of Language*, which is on reserve in the HUB section of the main library, and also available electronically (log into EASE, then go to [DiscoverEd](https://discovered.ed.ac.uk/primo-explore/search?vid=44UOE_VU2&sortby=rank) and search for it). It is also available to buy at Blackwell's on Southbridge. The readings for each week are specified in the [course schedule](http://www.lel.ed.ac.uk/cle/wp-content/uploads/2018/09/CourseOutline.pdf),
 and listed (and linked) in each pre-reading. Aside from the Fitch text, readings are mostly journal articles which can also be accessed via DiscoverEd (after EASE login). The handful of readings unavailable in this way are already posted on Learn and/or linked from the pre-readings or tutorial debriefs.
+
+### Hypothes.is
+
+This is a way to work collaboratively on annotating webpages and pdf documents with a group. Can you:
+
+1. Sign up and install the browser extension here: [Get started with Hypothesis](https://web.hypothes.is/start/)
+2. Join the class group with this link: https://hypothes.is/groups/KMGqZoBZ/linguistic-complexity-21
+3. Check if you can see the notes I've already made on Chrissy Cuskley's [brief introduction to language evolution](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf):
+  * open the pdf in the browser
+  * activate the hypothesis extension in your browser
+  * make sure you are in the 'Origins 2021' group in hypothesis
+  * look at the notes I have already made
+  * experiment with making your own highlights and private annotations.
 
 Below you will find week-by-week materials for the entire course. You
 can find a [PDF version of the course schedule here](CourseOutline.pdf), and it is also available on Learn.
@@ -116,7 +129,7 @@ that the assessment will not change).
 -   Lecture 1: Introduction to the course
     -   [Lecture slides](./Lecture_Slides/Origins_2019_1.pdf)
     -   Read this [very brief overview](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf) of topics in language evolution by Chrissy Cuskley.
-    - Open up **Hypothesis** and add at least one comment, question, or response to the overview article!
+    - With the above pdf document open in the browser, open up **Hypothesis** and add **at least one comment, question, or response** to the overview article!
     -   [Lecture 2 pre-reading](./Prereadings/prereading_week_2)
         (reading:Fitch (2010), ch 1-2)
 
