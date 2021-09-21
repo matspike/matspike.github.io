@@ -10,7 +10,7 @@ originally written by [Prof. Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [
 Lecturers/Tutors
 ----------------
 
-[Dr. Matthew Spike](http://www.pyowhack.com) (me!) is the course organiser and main lecturer. If you need to speak to someone about the course, you can email me or virtually-grab me after class (or during the break), I don't keep office hours, but am available to meet (on appointment) Mon-Fri. My office(!) is [DSB 2.13](http://www.ed.ac.uk/maps/maps?building=dugald-stewart-building).
+[Dr. Matthew Spike](http://www.pyowhack.com) (me!) is the course organiser and main lecturer. If you need to speak to someone about the course, you can email me or virtually-grab me after class (or during the break), I don't keep office hours, but am available to meet (by appointment) Mon-Fri. My office is [DSB 2.13](http://www.ed.ac.uk/maps/maps?building=dugald-stewart-building).
 Note that I will generally only respond to emails during **normal business hours**, and I may not be able to respond immediately (read: almost never do at the best of times).
 
 There is no lecture or tutorial in week 6; you should use this time to get a jump on independent study for your essay(s). [Dr. Frank Mollica](https://mollicaf.github.io/) will be delivering a lecture on Grammaticalisation in week 8.
