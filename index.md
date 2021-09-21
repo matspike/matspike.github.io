@@ -1,6 +1,5 @@
 # Origins and Evolution of Language, 2021
 
-
 This is the webpage for the Honours/MSc course Origins and Evolution of Language for 2021. The sections below give an overview of the course, including important links for **weekly readings and tutorials** and **information on weekly pre-lecture quizzes**. You will need to use Learn for links to lecture slides, weekly pre-lecture quizzes, and electronic submission course assessment.
 
 Note that much of the text on this webpage is culturally evolved --
@@ -9,11 +8,10 @@ originally written by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [James 
 Lecturers/Tutors
 ----------------
 
-[Dr. Matthew Spike](http://www.pyowhack.com) (that's me) is the course organiser and main lecturer. If you need to speak to someone about the course, you can email me or virtually-grab me after class (or during the break), I don't keep office hours, but am available to meet (on appointment) Mon-Fri. My office(!) is [DSB 2.13](http://www.ed.ac.uk/maps/maps?building=dugald-stewart-building).
+[Dr. Matthew Spike](http://www.pyowhack.com) (me!) is the course organiser and main lecturer. If you need to speak to someone about the course, you can email me or virtually-grab me after class (or during the break), I don't keep office hours, but am available to meet (on appointment) Mon-Fri. My office(!) is [DSB 2.13](http://www.ed.ac.uk/maps/maps?building=dugald-stewart-building).
 Note that I will generally only respond to emails during **normal business hours**, and I may not be able to respond immediately (read: almost never do at the best of times).
 
-There is no lecture or tutorial in week 6; you should use this time to get a jump on independent study for your essay(s). [Dr. Frank Mollica](https://mollicaf.github.io/) will be delivering a
-lecture on Grammaticalisation in week 8.
+There is no lecture or tutorial in week 6; you should use this time to get a jump on independent study for your essay(s). [Dr. Frank Mollica](https://mollicaf.github.io/) will be delivering a lecture on Grammaticalisation in week 8.
 
 Your tutor will be either Amir Bin Mustaffa, Lauren Fletcher, or Vittoria Moresco, who are all PhD students here in PPLS/LEL at
 Edinburgh. You can email your tutor with questions about the course
@@ -27,22 +25,15 @@ We have online lectures on Monday, 2.10pm-4pm on Teams.
 Tutorial times and venues
 -------------------------
 
-The course includes one, one hour tutorial per week, starting in week 2.
-For honours students, groups have been assigned by the teaching office;
-if you would like to request a change of group, [please do so
-here](https://www.ed.ac.uk/student-administration/timetabling/students/tutorial-change-request).
-If you are an MSc Student, you can self-enroll in a tutorial group on
-Learn via the 'Group Sign up' button which will be provided soon.
+The course includes one, one hour tutorial per week, starting in week 2. For honours students, groups have been assigned by the teaching office; if you would like to request a change of group, [please do so here](https://www.ed.ac.uk/student-administration/timetabling/students/tutorial-change-request). If you are an MSc Student, you can self-enroll in a tutorial group on Learn via the 'Group Sign up' button which will be provided soon.
 
 From week 3, some of the tutorials will take the form of "debates" where half of each tutorial group will read a different paper on the same general topic, and compare and contrast the approaches during the tutorial meeting. **Attendance at tutorials is compulsory**, not optional.
 
 Attendance will be taken at each tutorial, and you are expected to
 attend all tutorials for the course. You should have received a
 notification of which tutorial group you will be in. The times and
-locations of each group are listed [here for Honours
-students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC10031_SV1_SEM1&period=YR)
-and [here for MSc
-students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC11112_SV1_SEM1&period=YR).
+locations of each group are listed [here for Honours students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC10031_SV1_SEM1&period=YR)
+and [here for MSc students](https://browser.ted.is.ed.ac.uk/generate?courses%5B%5D=LASC11112_SV1_SEM1&period=YR).
 
 If there are any remaining issues concerning the tutorial groups, please contact [Matt Spike](mspike@ed.ac.uk).
 
@@ -58,7 +49,7 @@ required to complete).
 
 [Instructions for signing up to Top Hat via EASE are
 here](https://www.ed.ac.uk/information-services/learning-technology/electronic-voting-system/students/account).
-To get to the content for this course, you will need the join code which will be supplied in the next few days.
+To get to the content for this course, you will need the join code  which will be supplied in the next few days.
 
 #### Reading Quizzes
 
