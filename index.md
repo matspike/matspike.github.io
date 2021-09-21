@@ -1,5 +1,4 @@
 ---
-baseurl: /origins
 layout: default
 ---
 
