@@ -115,6 +115,8 @@ that the assessment will not change).
 
 -   Lecture 1: Introduction to the course
     -   [Lecture slides](./Lecture_Slides/Origins_2019_1.pdf)
+    -   Read this [very brief overview](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf) of topics in language evolution by Chrissy Cuskley.
+    - Open up **Hypothesis** and add at least one comment, question, or response to the overview article!
     -   [Lecture 2 pre-reading](./Prereadings/prereading_week_2)
         (reading:Fitch (2010), ch 1-2)
 
