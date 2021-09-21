@@ -1,7 +1,7 @@
 This is the webpage for the Honours/MSc course Origins and Evolution of Language for 2021. The sections below give an overview of the course, including important links for **weekly readings and tutorials** and **information on weekly pre-lecture quizzes**. You will need to use Learn for links to lecture slides, weekly pre-lecture quizzes, and electronic submission course assessment.
 
 Note that much of the text on this webpage is culturally evolved --
-originally written by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [James Winters](http://www.replicatedtypo.com/authors/james-winters), and modified by both [Marieke Schouwstra](https://mariekeschouwstra.github.io) and [Christine Cuskley](http://ccuskley.github.io).
+originally written by [Prof. Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Dr. James Winters](http://www.replicatedtypo.com/authors/james-winters), and modified by both [Dr. Marieke Schouwstra](https://mariekeschouwstra.github.io) and [Dr. Christine Cuskley](http://ccuskley.github.io).
 
 Lecturers/Tutors
 ----------------
