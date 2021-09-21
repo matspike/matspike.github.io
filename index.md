@@ -199,7 +199,7 @@ that the assessment will not change).
 
 -   Lecture 10: Future directions
 
-<script src="https://hypothes.is/embed.js" async></script>
+
 
   <!-- \[Slides\]
     -   [Tutorial: Wrap         up](http://www.lel.ed.ac.
