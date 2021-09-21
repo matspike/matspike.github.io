@@ -1,5 +1,3 @@
-# 
-
 This is the webpage for the Honours/MSc course Origins and Evolution of Language for 2021. The sections below give an overview of the course, including important links for **weekly readings and tutorials** and **information on weekly pre-lecture quizzes**. You will need to use Learn for links to lecture slides, weekly pre-lecture quizzes, and electronic submission course assessment.
 
 Note that much of the text on this webpage is culturally evolved --
