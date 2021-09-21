@@ -52,7 +52,7 @@ required to complete).
 
 [Instructions for signing up to Top Hat via EASE are
 here](https://www.ed.ac.uk/information-services/learning-technology/electronic-voting-system/students/account).
-To get to the content for this course, you will need the join code  which will be supplied in the next few days.
+To get to the content for this course, you will need **the join code which will be supplied in the next few days**.
 
 #### Reading Quizzes
 
