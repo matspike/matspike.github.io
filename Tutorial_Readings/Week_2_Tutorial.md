@@ -1,6 +1,6 @@
 # Week 2 Tutorial briefing: Boeckx 2021 on language evolution
 
-The first tutorial is fairly straightforward: read **Chapters 1 and 2** (they're very short, don't worry of [this *brand-new book* from Cedric Boeckx](./142.pdf), and turn up prepared to ask questions about it and discuss it. This short book is a very personal and non-technical summary of Bockx’s take on language: what it’s for and how it evolved.
+The first tutorial is fairly straightforward: read **Chapters 1 and 2** (they're very short, don't worry) of [this *brand-new book* from Cedric Boeckx](./142.pdf), and turn up prepared to ask questions about it and discuss it. This short book is a very personal and non-technical summary of Bockx’s take on language: what it’s for and how it evolved.
 
 Below, we suggest some issues you could consider when you are reading it and discussing it in your groups, but don’t feel constrained by these. If there is a basic issue from the readings or lectures that your tutor can help clear up, this is a good opportunity to raise it in a smaller group setting.
 
