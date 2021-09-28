@@ -4,6 +4,8 @@ The first tutorial is fairly straightforward: read **Chapters 1 and 2** (they're
 
 Below, we suggest some issues you could consider when you are reading it and discussing it in your groups, but don’t feel constrained by these. If there is a basic issue from the readings or lectures that your tutor can help clear up, this is a good opportunity to raise it in a smaller group setting.
 
+**ALSO** - please do make Hypothes.is annotations, as it's a great way to pull up issues and terminology that everyone will benefit from, as well as a great base for any assignments you do later on!
+
 ## Possible points to consider
 * Boeckx argues against non-evolutionary perspectives on language. What does that mean?
 * What kinds of arguments and evidence does he think we have access to?
