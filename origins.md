@@ -146,9 +146,8 @@ that the assessment will not change).
 
     -  [Lecture Slides](./Lecture_Slides/Origins_2021_1.pdf)
     -  [The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086) *Not* your tutorial reading, but a very influential piece from Gould and Lewontin which is worth skimming at least!
-    <!-- -   [Tutorial: Pinker on language
-        evolution](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-2/)
-    -   [Lecture 3
+    -   [Tutorial: Boexkx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
+    <!-- -   [Lecture 3
         pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-2/)
          (reading: Fitch (2010), ch.4) -->
 
