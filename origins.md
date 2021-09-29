@@ -144,7 +144,7 @@ that the assessment will not change).
 
 -   Lecture 2: Natural selection and adaptation
 
-    -  [Lecture Slides](./Lecture_Slides/Origins_2021_1.pdf)
+    -  [Lecture Slides](https://github.com/matspike/matspike.github.io/blob/gh-pages/Lecture_Slides/Origins_2021_2.pdf)
     -  The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme [1. pdf via edinburgh uni login](https://uoe-my.sharepoint.com/:b:/g/personal/mspike_ed_ac_uk/EdmGi3eF8j9MvEyZ4GXYGgoB5SoB4SNO3h_fyH4JO3ETlA?e=lw68KN) [2. publisher paywalled article](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086) *Not* your tutorial reading, but a very influential piece from Gould and Lewontin which is worth skimming at least!
     -   [Tutorial: Boexkx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
     <!-- -   [Lecture 3
