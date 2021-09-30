@@ -9,7 +9,7 @@ layout: default
 
 This week's main reading, **Chapter 4 of Fitch (2010)**, surveys the various cognitive abilities and communication systems on offer in the animal world. In particular, Fitch discusses experimental evidence, and how the differences and similarities between humans and other animals can shed light on the evolution of language.
 
-*NB. Fitch refers several times to Mitteilungsbedurfnis, which is defined in Chapter 3, which you haven't been asked to read but which I talked about in class. This is a German word referring to the tendency to share our thoughts and feelings with others (I mentioned it in the first lecture).*
+*NB. Fitch refers several times to Mitteilungsbedurfnis, which is defined in Chapter 3, which you haven't been asked to read but which I talked about in class. This is a German word referring to the tendency to share our thoughts and feelings with others*
 
 ## Animal Cognition
 
