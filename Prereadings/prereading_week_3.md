@@ -63,7 +63,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
-We also find amazing communicative abilities in some rather surprising organisms. Consider the waggle dance of the honeybee and its ability to convey information about something not currently present (aka [displacement](https://en.wikipedia.org/wiki/Displacement_(linguistics), one of Hockett's *design features* of language:
+We also find amazing communicative abilities in some rather surprising organisms. Consider the waggle dance of the honeybee and its ability to convey information about something not currently present (aka [displacement](https://en.wikipedia.org/wiki/Displacement_(linguistics)), one of Hockett's *design features* of language:
 
 <!-- [embed]https://www.youtube.com/watch?v=-7ijI-g4jHg[/embed] -->
 <iframe width="560" height="315"
