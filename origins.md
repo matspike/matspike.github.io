@@ -135,7 +135,7 @@ that the assessment will not change).
 
 -   Lecture 1: Introduction to the course
     -   [Lecture slides](./Lecture_Slides/Origins_2019_1.pdf)
-    -   [Lecture 1 video](https://matspike.github.io/vids/origins_2021_lecture_1.md)
+    -   [Lecture 1 video](https://matspike.github.io/vids/origins_2021_lecture_1)
     -   Read this [very brief overview](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf) of topics in language evolution by Chrissy Cuskley.
     - With the above pdf document open in the browser, open up **Hypothesis** and add **at least one comment, question, or response** to the overview article!
     -   [Lecture 2 pre-reading](./Prereadings/prereading_week_2)
@@ -146,7 +146,7 @@ that the assessment will not change).
 -   Lecture 2: Natural selection and adaptation
 
     -  [Lecture Slides](https://github.com/matspike/matspike.github.io/blob/gh-pages/Lecture_Slides/Origins_2021_2.pdf)
-    -  [Lecture 2 video](https://matspike.github.io/vids/origins_2021_lecture_2.md)
+    -  [Lecture 2 video](https://matspike.github.io/vids/origins_2021_lecture_2)
     -  The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme [1. pdf via edinburgh uni login](https://uoe-my.sharepoint.com/:b:/g/personal/mspike_ed_ac_uk/EdmGi3eF8j9MvEyZ4GXYGgoB5SoB4SNO3h_fyH4JO3ETlA?e=lw68KN) [2. publisher paywalled article](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086) *Not* your tutorial reading, but a very influential piece from Gould and Lewontin which is worth skimming at least!
     -   [Tutorial: Boexkx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
     - [Lecture 3 pre-reading](./Prereadings/prereading_week_3) (reading: Fitch (2010), ch.4) 
