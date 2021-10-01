@@ -14,7 +14,7 @@ Lecturers/Tutors
 [Dr. Matthew Spike](http://www.pyowhack.com) (me!) is the course organiser and main lecturer. If you need to speak to someone about the course, you can email me or virtually-grab me after class (or during the break), I don't keep office hours, but am available to meet (by appointment) Mon-Fri. My office is [DSB 2.13](http://www.ed.ac.uk/maps/maps?building=dugald-stewart-building).
 Note that I will generally only respond to emails during **normal business hours**, and I may not be able to respond immediately (read: almost never do at the best of times).
 
-There is no lecture or tutorial in week 6; you should use this time to get a jump on independent study for your essay(s). [Dr. Frank Mollica](https://mollicaf.github.io/) will be delivering a lecture on Grammaticalisation in week 8.
+There is no lecture or tutorial in week 6; you should use this time to get a jump on independent study for your essay(s). [Dr. Frank Mollica](https://mollicaf.github.io/) will be delivering a lecture on Grammaticalisation in week 9/lecture 8.
 
 Your tutor will be either Amir Bin Mustaffa, Lauren Fletcher, or Vittoria Moresco, who are all PhD students here in PPLS/LEL at
 Edinburgh. You can email your tutor with questions about the course
@@ -145,7 +145,7 @@ that the assessment will not change).
 
 -   Lecture 2: Natural selection and adaptation
 
-    -  [Lecture Slides](https://github.com/matspike/matspike.github.io/blob/gh-pages/Lecture_Slides/Origins_2021_2.pdf)
+    -  [Lecture Slides](./Lecture_Slides/Origins_2021_2.pdf)
     -  [Lecture 2 video](https://uoe-my.sharepoint.com/:v:/g/personal/mspike_ed_ac_uk/EZepfvVpfpJNvvyhKGdbF18BQygi4XVxIfGDyMDg3MhHDQ?e=Jtb58q) (University login required, subtitles forthcoming)
     -  *The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme* 
         *  [1. pdf via edinburgh uni login](https://uoe-my.sharepoint.com/:b:/g/personal/mspike_ed_ac_uk/EdmGi3eF8j9MvEyZ4GXYGgoB5SoB4SNO3h_fyH4JO3ETlA?e=lw68KN) 
