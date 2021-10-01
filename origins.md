@@ -135,7 +135,7 @@ that the assessment will not change).
 
 -   Lecture 1: Introduction to the course
     -   [Lecture slides](./Lecture_Slides/Origins_2019_1.pdf)
-    <!---   [Lecture 1 video](https://matspike.github.io/vids/origins_2021_lecture_1) -->
+    -   [Lecture 1 video](https://uoe-my.sharepoint.com/:v:/g/personal/mspike_ed_ac_uk/EZepfvVpfpJNvvyhKGdbF18BQygi4XVxIfGDyMDg3MhHDQ?e=Jtb58q) 
     -   Read this [very brief overview](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf) of topics in language evolution by Chrissy Cuskley.
     - With the above pdf document open in the browser, open up **Hypothesis** and add **at least one comment, question, or response** to the overview article!
     -   [Lecture 2 pre-reading](./Prereadings/prereading_week_2)
