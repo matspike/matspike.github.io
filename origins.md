@@ -155,7 +155,7 @@ that the assessment will not change).
     -   [Tutorial: Boeckx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
     - [Lecture 3 pre-reading](./Prereadings/prereading_week_3) (reading: Fitch (2010), ch.4) 
 
-Also, since I talked about the amazing evolution of the eukaryotic cell in the lecture, [here's a short video about that.](https://youtu.be/9i7kAt97XYU)
+Also, since I talked about **the amazing evolution of the eukaryotic cell** in the lecture, [here's a short video about that.](https://youtu.be/9i7kAt97XYU)
 
 ### Week 3: Oct 4
 
