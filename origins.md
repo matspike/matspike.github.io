@@ -1,5 +1,5 @@
 ---
-title: origins
+title: Week_3_Tutorial
 layout: default
 ---
 
@@ -147,13 +147,13 @@ that the assessment will not change).
 
     -  [Lecture Slides](./Lecture_Slides/Origins_2021_2.pdf)
     -  [Lecture 2 video](https://uoe-my.sharepoint.com/:v:/g/personal/mspike_ed_ac_uk/EZepfvVpfpJNvvyhKGdbF18BQygi4XVxIfGDyMDg3MhHDQ?e=Jtb58q) (University login required, subtitles forthcoming)
-    -  *The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme* 
-        *  [1. pdf via edinburgh uni login](https://uoe-my.sharepoint.com/:b:/g/personal/mspike_ed_ac_uk/EdmGi3eF8j9MvEyZ4GXYGgoB5SoB4SNO3h_fyH4JO3ETlA?e=lw68KN) 
-        *  [2. publisher paywalled article](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086) 
-        
+    -  *The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme*
+        *  [1. pdf via edinburgh uni login](https://uoe-my.sharepoint.com/:b:/g/personal/mspike_ed_ac_uk/EdmGi3eF8j9MvEyZ4GXYGgoB5SoB4SNO3h_fyH4JO3ETlA?e=lw68KN)
+        *  [2. publisher paywalled article](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086)
+
         *Not* your tutorial reading, but a very influential piece from Gould and Lewontin which is worth skimming at least!
-    -   [Tutorial: Boeckx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
-    - [Lecture 3 pre-reading](./Prereadings/prereading_week_3) (reading: Fitch (2010), ch.4) 
+    - [Tutorial: Boeckx 2021 on language evolution](https://matspike.github.io/Tutorial_Readings/Week_2_Tutorial)
+    - [Lecture 3 pre-reading](./Prereadings/prereading_week_3) (reading: Fitch (2010), ch.4)
 
 -   Also, since I talked about **the amazing evolution of the eukaryotic cell** in the lecture, [here's a short video about that.](https://youtu.be/9i7kAt97XYU)
 
@@ -161,11 +161,9 @@ that the assessment will not change).
 
 -   Lecture 3: Animal communication, intention and structure
 
-    <!-- ([Slides](https://www.pyowhack.com/origins-week-3))
-    -   [Tutorial: Birdsong and Chimpanzee
-        calls](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-3/)
-    -   [Lecture 4
-        pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-3/)
+    <!-- - [Slides](coming@soon) -->
+    -   [Tutorial: Birdsong and Chimpanzee calls](/https://matspike.github.io/Tutorial_Readings/Week_3_Tutorial)
+    <!-- -   [Lecture 4 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-3/)
         (reading: Fitch (2010), ch. 7) -->
 
 ### Week 4: Oct 11
