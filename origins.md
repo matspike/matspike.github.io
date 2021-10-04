@@ -135,7 +135,7 @@ that the assessment will not change).
 
 -   Lecture 1: Introduction to the course
     -   [Lecture slides](./Lecture_Slides/Origins_2021_1.pdf)
-    -   [Lecture 1 video](https://media.ed.ac.uk/media/Origins+2021+Week+1+Lecture/1_h5x7g8lt) (University login required, subtitles forthcoming)
+    -   [Lecture 1 video](https://media.ed.ac.uk/media/Origins+2021+Week+1+Lecture/1_h5x7g8lt) (University login required)
     -   Read this [very brief overview](./Tutorial_Readings/Cuskley_LanguageEvolutionOverview.pdf) of topics in language evolution by Chrissy Cuskley.
     - With the above pdf document open in the browser, open up **Hypothesis** and add **at least one comment, question, or response** to the overview article!
     -   [Lecture 2 pre-reading](./Prereadings/prereading_week_2)
@@ -163,6 +163,8 @@ that the assessment will not change).
 
     -   [Lecture Slides](/Lecture_Slides/Origins_2021_3.pdf)
     -   [Lecture 3 video](https://media.ed.ac.uk/media/Origins+Week+3+Lecture/1_j5637gew)
+    <!-- - Videos from lecture:
+      - -->
     -   [Tutorial: Birdsong and Chimpanzee calls](/Tutorial_Readings/Week_3_Tutorial)
     <!-- -   [Lecture 4 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-3/)
         (reading: Fitch (2010), ch. 7) -->
