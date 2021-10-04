@@ -161,7 +161,7 @@ that the assessment will not change).
 
 -   Lecture 3: Animal communication, intention and structure
 
-    -   [Slides](/Lecture_Slides/Origins_2021_3.pdf) -->
+    -   [Lecture Slides](/Lecture_Slides/Origins_2021_3.pdf)
     -   [Tutorial: Birdsong and Chimpanzee calls](/Tutorial_Readings/Week_3_Tutorial)
     <!-- -   [Lecture 4 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-3/)
         (reading: Fitch (2010), ch. 7) -->
