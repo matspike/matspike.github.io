@@ -163,8 +163,7 @@ that the assessment will not change).
 
     -   [Lecture Slides](/Lecture_Slides/Origins_2021_3.pdf)
     -   [Lecture 3 video](https://media.ed.ac.uk/media/Origins+Week+3+Lecture/1_j5637gew)
-    <!-- - Videos from lecture:
-      - -->
+    <!-- - Videos from lecture:-->
     -   [Tutorial: Birdsong and Chimpanzee calls](/Tutorial_Readings/Week_3_Tutorial)
     <!-- -   [Lecture 4 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-3/)
         (reading: Fitch (2010), ch. 7) -->
