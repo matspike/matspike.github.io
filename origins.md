@@ -172,11 +172,10 @@ that the assessment will not change).
 
 -   Lecture 4: Human evolution, social learning and cumulative culture
 
-    <!-- -   [Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4347620-dt-content-rid-10263605_1/xid-10263605_1)
-    -   [Tutorial: Language and the arhcheological
-        record](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-4/)
-    -   [Lecture 5 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-4/)
-         (reading: Fitch 2010 ch. 8) -->
+    -   [Slides](/Lecture_Slides/Origins_2021_4.pdf)
+    -   [Tutorial: Language and the arhcheological record](/Tutorial_Readings/Week_4_Tutorial)
+    -   [Lecture 5 pre-reading](./Prereadings/prereading_week_5)
+        - reading: Fitch 2010 ch. 8)
 
 ### Week 5: Oct 18
 
