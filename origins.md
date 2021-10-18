@@ -180,6 +180,7 @@ that the assessment will not change).
 ### Week 5: Oct 18
 
 -   Lecture 5: Evolution of speech, vocal learning
+    - [ASSIGNMENT INFO](/assignments/assignment_info)
 
     <!-- ([Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4364593-dt-content-rid-10373738_1/xid-10373738_1))
     -   [Tutorial: Gestural and vocal theories of language
