@@ -6,9 +6,9 @@ More recently, she has brought her research programme together into a coherent t
 
 In the meantime, watch the lecture in the video below, and while you're watching make a note of any questions you have about the material, using the prompts below as a guide
 
+<!-- [embed]https://www.youtube.com/watch?v=2N34Fcn3J00[/embed] -->
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/Yz-y6LZU3C8"
 frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
-
