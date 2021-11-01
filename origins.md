@@ -185,7 +185,7 @@ that the assessment will not change).
     <!-- ([Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4364593-dt-content-rid-10373738_1/xid-10373738_1))
     -   [Tutorial: Gestural and vocal theories of language
         origins](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-5/) -->
-    <!-- -   [Lecture 6 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-5/) -->
+    [Lecture 6 **pre/post**-reading](./Prereadings/prereading_week_5) 
 
 ### Week 6
 
