@@ -16,7 +16,7 @@ In the meantime, watch the lecture in the video below, and while you're watching
   7. Why does she discuss Nicaraguan Sign Language?
   
 ### Possible discussion questions
-  1. What do you think of *Cultural evlutionary psychology* - what benefits and drawbacks does it have, especially in comparison with Evolutionary Psychology?
+  1. What do you think of *Cultural evolutionary psychology* - what benefits and drawbacks does it have, especially in comparison with Evolutionary Psychology?
   2. Do you think that the comparison between mindreading and print reading is a good one?
   3. Are you convinced by all Heyes' arguments, or what more would you need to convince you?
   4. What do you think are the implications for **language evolution**?
