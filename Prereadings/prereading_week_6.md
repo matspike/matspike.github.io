@@ -1,0 +1,9 @@
+# Week 5 (post)Reading: Evolution of Social Cognition
+
+This week you can read Woensdregt & Smith (2017). The first author, Marieke Woensdregt, did her PhD here in the Centre for Language Evolution, working on computational models of language the co-evolution of theory of mind. The second author is Kenny Smith.
+
+## Overview of the reading
+The aim of the article is to provide a brief review of some of the key evolutionary questions concerning pragmatics, specifically, the ability to make and exploit inferences about others’ minds during communication. There is some debate about exactly how sophisticated a mindreader you need to be for this kind of communication. As reviewed in the reading, some authors (notably, Dan Sperber) argue that it requires the ability to deal with complex embedded representations of the beliefs that others have about your beliefs and so on; Richard Moore argues that far more basic cognitive capacities might be required. Either way, human capacities for representing and reasoning about mental states in others seem to far outstrip the capacities of our closest relatives, the other great apes, who are capable of representing what other individuals know, but possibly not that other individuals can have false beliefs about the world. The article ends by reviewing possible explanations for the evolution of sophisticated theory of mind in humans, including explanations appealing to biological evolution (perhaps our uniquely complex social/technological niche generated selection for enhanced mindreading capacities) or cultural evolution (including the possibility that language and theory of mind co-evolved).
+
+## Reference
+Woensdregt, M., & Smith, K. (forthcoming). Pragmatics and language evolution. To appear in M. Aronoff et al. (Eds.), Oxford Research Encyclopedia of Linguistics. Oxford: Oxford University Press. (PDF)
