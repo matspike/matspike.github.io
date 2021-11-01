@@ -194,6 +194,8 @@ that the assessment will not change).
 
 ###  Week 7: Nov 1
 -   Lecture 6: Evolution of social cognition
+    - [Lecture 6 **pre/post**-reading](./Prereadings/prereading_week_5)
+    
 
     <!-- ([Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4395241-dt-content-rid-10594272_1/xid-10594272_1))
     -   [Tutorial: Social cognition and language](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-6/)
