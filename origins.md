@@ -204,7 +204,8 @@ that the assessment will not change).
 
 ### Week 8: Nov 8
 
--   Lecture 7: Protolanguage
+-   Lecture 7: Protolanguage 
+    - [Lecture 7 **post**-reading](./Prereadings/prereading_week_7)
     - [Tutorial: Iconicity](/Tutorial_Readings/Week_7_Tutorial)
 
     <!-- \[[Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4404754-dt-content-rid-10670059_1/xid-10670059_1)\]
