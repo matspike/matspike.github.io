@@ -23,4 +23,4 @@ We will be watching the middle section of the talk, where Simon talks about the 
 
 [Motamedi, Y., Schouwstra, M., Smith, K., Culbertson, J., & Kirby, S. (2019). Evolving artificial sign languages in the lab: From improvised gesture to systematic sign. Cognition, 192, 103964.](https://www.sciencedirect.com/science/article/pii/S0010027719301234?via%3Dihub)
 
-[Kirby, S., Tamariz, M., Cornish, H., & Smith, K. (2015). Compression and communication in the cultural evolution of linguistic structure. Cognition, 141, 87-102.]
+[Kirby, S., Tamariz, M., Cornish, H., & Smith, K. (2015). Compression and communication in the cultural evolution of linguistic structure. Cognition, 141, 87-102.](https://www.sciencedirect.com/science/article/pii/S0010027715000815)
