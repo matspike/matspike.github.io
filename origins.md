@@ -215,6 +215,7 @@ that the assessment will not change).
 ### Week 9: Nov 15
 
 -   Lecture 8: Grammaticalisation (Dr. Frank Mollica)
+    - [Lecture 8 **post**-reading](./Prereadings/prereading_week_8)
 
     <!-- \[[Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4408786-dt-content-rid-10728596_1/xid-10728596_1)\]
     -   [Tutorial: Emergent sign languages](http://www.lel.ed.ac.uk/cle/index.php/origins2017/origins2017-tutorial8/)
