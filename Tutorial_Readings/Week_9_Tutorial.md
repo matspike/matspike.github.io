@@ -11,6 +11,9 @@ This one's relatively tame. Think about:
 3. The relationship between 1 and 2.
 4. What you find surprising or interesting.
 
+
+<iframe width="560" height="315" src="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi1.mp4" allowfullscreen></iframe>
+
 ## Video 2: Fungi and **you**
 We're getting somewhere now. Think about:
 1. The evolutionary history of fungi.
@@ -18,17 +21,21 @@ We're getting somewhere now. Think about:
 3. The discussion of intelligence.
 4. What you find surprising or interesting.
 
+
+<iframe width="560" height="315" src="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi2.mp4" allowfullscreen></iframe>
+
 ## Video 3: Science!
 I won't spoil it for you. Think about... all of it.
+
+
+<iframe width="560" height="315" src="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi3.mp4" allowfullscreen></iframe>
 
 ## Video 4: 
 This is also pretty special. Think about which, if any, of the claims made here have any merit.
 
-<a href="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi4.mp4">fungi4.mp4</a>
-
 <iframe width="560" height="315" src="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi4.mp4" allowfullscreen></iframe>
 
-https://e1.pcloud.link/publink/show?code=XZh5TJZpPIi3pGwKskL7PiYGu226bDwB1rX
+
 
 
 
