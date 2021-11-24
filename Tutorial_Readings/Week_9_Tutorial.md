@@ -24,7 +24,9 @@ I won't spoil it for you. Think about... all of it.
 ## Video 4: 
 This is also pretty special. Think about which, if any, of the claims made here have any merit.
 
-<iframe width="560" height="315" src="https://e1.pcloud.link/publink/show?code=XZh5TJZpPIi3pGwKskL7PiYGu226bDwB1rX" allowfullscreen></iframe>
+<a href="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi4.mp4">fungi4.mp4</a>
+
+<iframe width="560" height="315" src="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/Origins%202021/fungi4.mp4" allowfullscreen></iframe>
 
 https://e1.pcloud.link/publink/show?code=XZh5TJZpPIi3pGwKskL7PiYGu226bDwB1rX
 
