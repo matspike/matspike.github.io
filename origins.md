@@ -225,6 +225,7 @@ that the assessment will not change).
 ### Week 10: Nov 22
 
 -   Lecture 9: Cultural evolution of language
+    -  - [Tutorial: Into the fungiverse](/Tutorial_Readings/Week_9_Tutorial)
 
     <!-- \[[Slides](https://www.learn.ed.ac.uk/bbcswebdav/pid-4430922-dt-content-rid-10911810_1/xid-10911810_1)\]
     -   [Tutorial: biological and cultural evolution in language](http://www.lel.ed.ac.uk/cle/index.php/origins2018/tutorial-9/)
