@@ -232,6 +232,7 @@ that the assessment will not change).
     -   [Lecture 10 pre-reading](http://www.lel.ed.ac.uk/cle/index.php/origins2018/reading-10/) -->
 
 ### Week 11: Nov 30
+   - [Tutorial: Complex adaptive systems](/Tutorial_Readings/Week_10_Tutorial)
 
 -   Lecture 10: Future directions
 
