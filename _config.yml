@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Origins & Evolution of Language 2021
-email: mspike@ed.ac.uk
-description: All language origins, all the time
+title: Matt Spike
+email: matspike@gmail.com
+description: Dancing About Cognitive Architectures
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matspike
