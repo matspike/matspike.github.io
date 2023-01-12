@@ -16,13 +16,13 @@ All material for this course should be linked here, so if you have any questoins
  		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
-		* Selection, mutation, drift
-		* Innovation and constraints
-		* Systems and ecology
-	* Cultural Evolution
-		* Cumulative culture
-		* Theories: Paris vs California
-		* Granularity and scale
+			* Selection, mutation, drift
+			* Innovation and constraints
+			* Systems and ecology
+		* Cultural Evolution
+			* Cumulative culture
+			* Theories: Paris vs California
+			* Granularity and scale
 	* Explaining Design
 		* Frameworks: Meyr's Distinction & Tinbergen's 4 Questions
 		* Extensions: Niche construction and evo-devo
