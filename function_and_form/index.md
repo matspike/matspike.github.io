@@ -35,7 +35,7 @@ All material for this course should be linked here, so if you have any questoins
   * Human communication
     * Are language and communication co-extensive?
     * Diverse forms, unlimited function, and the role of pragmatics
-    * Is language for thought or communication?
+    * Is language designed for thought or communication?
 4.  Information Theory: function and form in generalised communication
 5. 
   
