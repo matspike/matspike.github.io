@@ -5,7 +5,7 @@ layout: default
 
 # Form and Function in Language Evolution
 This is the course webpage for Matt Spike's 2023 Guided Research course at the universty of Edinburgh.
-All material for this course should be linked here, so if you have any questoins this should be your first point of call.
+All material for this course should be linked here, so if you have any questions this should be your first point of call.
 
 ## Topics
 
@@ -16,9 +16,11 @@ All material for this course should be linked here, so if you have any questoins
  		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
-			* Selection, mutation, drift
-			* Innovation and constraints
-			* Systems and ecology
+			* Mechanisms: Selection, mutation, drift [Berkeley UCMP Understanding Evolution](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/)
+			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459)
+			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398)
+			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976)
+			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976)
 		* Cultural Evolution
 			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0)
 			* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133)
@@ -28,17 +30,21 @@ All material for this course should be linked here, so if you have any questoins
 				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762)
 			* Granularity and scale
 	* Explaining Design
-		* Explanatory frameworks: 
+		* Theories and Frameworks: 
 		 	* Adaptation: 
 		 	 	* Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879) 
 		 	 	* Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x)
 		 	* Cognition: 
-		 	 	* Marr's 4 levels: [Marr & Poggio 1976](https://dspace.mit.edu/handle/1721.1/5782)
-		 	 	* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051)
+		 	 	* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567)
+		 	 	* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir)
 		* Extensions: 
-		 	* Non-genetic inheritance: [Jablonka & Lamb 2007](http://link.springer.com/10.1007/s10539-018-9610-x)
-		 	* Novelty, Plasticity & Niche Construction: [Sterelny 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9636-5_7)
-		 	* Extended Evolutionary Synthesis: [Laland et al 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1019)
+		 	* Biology:
+		 		* Non-genetic inheritance: [Jablonka & Lamb 2007](http://link.springer.com/10.1007/s10539-018-9610-x)
+		 		* Novelty, Plasticity & Niche Construction: [Sterelny 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9636-5_7)
+		 		* Extended Evolutionary Synthesis: [Laland et al 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1019)
+			* Cognition:
+				* 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39)
+		 	 	* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051)
 		* Critiques of adaptationism and teleology in:
 		 	* biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086)
 		 	* (evolutionary) psychology: see [SEP entry, Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/) 
