@@ -12,7 +12,7 @@ All material for this course should be linked here, so if you have any questions
 Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested background readings for each, but note that these are **definitely not mandatory**: see this as the first port of call if you want to brush up on any of the topics. Of course, this list is far from exhaustive: for *more* detail, you should first go to the Zotero library I have curated for this class, which is split along the same categories as this list.
 
 1. Function and form in context:
-	* The costs and benefits of functional design in:
+	1. The costs and benefits of functional design in:
 		- <details>
 			<summary>Technology</summary>
 	
@@ -30,7 +30,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
 			</details>
 		* Human cognition and culture
-	* The origins of design
+	2. The origins of design
 		- <details>
 			<summary>Biological evolution</summary>
 	
@@ -52,7 +52,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 		</details>
-	* Explaining Design
+	3. Explaining Design
 		- <details>
 			<summary>Theories and Frameworks:</summary>
 		 
@@ -82,11 +82,11 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
 			</details>
 2. Natural Communication
-	* Biological communication
+	1. Biological communication
 		* Function as definitional
 		* Diverse forms, limited functions
 		* Manipulation, inclusive fitness, or group selection?
-	* Human communication
+	2. Human communication
 		* Are language and communication co-extensive?
 		* Diverse forms, unlimited function, and the role of pragmatics
 		* Language design: thought or communication?
