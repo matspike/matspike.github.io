@@ -13,7 +13,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 
 1. Function and form in context:
 	1. The costs and benefits of functional design in:
-		- <details>
+		- <details markdown="1">
 			<summary>Technology</summary>
 	
 			- Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
@@ -21,7 +21,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
 			- The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
 		
-		- <details>
+		- <details markdown="1">
 			<summary>Biology</summary>
 	
 			- Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
@@ -30,7 +30,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
 			- Cognition: [Huebner \& Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
 
-		- <details>
+		- <details markdown="1">
 			<summary>Humans:</summary>
 		
 			- Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
@@ -40,7 +40,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
 			- Culture: [Henrich and Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
 	2. The origins of design
-		- <details>
+		- <details markdown="1">
 			<summary>Biological evolution</summary>
 	
 			- Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
@@ -71,7 +71,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		 		- Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 		- Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 	
-		- <details>
+		- <details markdown="1">
 			<summary>Extensions:</summary>
 	
 			- Biology:
@@ -82,7 +82,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				- 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39 "Clark, A. (2017). Embodied, Situated, and Distributed Cognition. In A Companion to Cognitive Science (pp. 506–517). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405164535.ch39")
 		 		- Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
 	
-		- <details>
+		- <details markdown="1">
 			<summary> Critiques of adaptationism and teleology:</summary>
 	
 			- in Biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
