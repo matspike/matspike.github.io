@@ -49,7 +49,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
 			- Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
 	
-		- <details>
+		- <details markdown="1">
 			<summary>Cultural Evolution</summary>
 	
 			- Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
@@ -61,7 +61,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			- Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 	3. Explaining Design
-		- <details>
+		- <details markdown="1">
 			<summary>Theories and Frameworks:</summary>
 		 
 			- Adaptation: 
@@ -90,7 +90,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- in Evolutionary Psychology (again): [Lloyd 1999](https://doi.org/10.1023/A:1006638501739 "Lloyd, E. A. (1999). Evolutionary Psychology: The Burdens of Proof. Biology and Philosophy, 14(2), 211–233. https://doi.org/10.1023/A:1006638501739")
 			- in Culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
 	
-		</details>
+		
 2. Natural Communication
 	1. Biological communication
 		* Function as definitional
