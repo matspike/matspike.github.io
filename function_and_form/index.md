@@ -31,7 +31,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Cognition: [Huebner \& Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
 
 		- <details markdown="1">
-			<summary>Humans:</summary>
+			<summary>Humans</summary>
 		
 			- Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
 			- Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., \& Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
@@ -63,7 +63,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			
 	3. Explaining Design
 		- <details markdown="1">
-			<summary>Theories and Frameworks:</summary>
+			<summary>Theories and Frameworks</summary>
 		 
 			- Adaptation: 
 				- Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
@@ -73,7 +73,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				- Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 	
 		- <details markdown="1">
-			<summary>Extensions:</summary>
+			<summary>Extensions</summary>
 	
 			- Biology:
 				- Non-genetic inheritance: [Jablonka & Lamb 2007](https://doi.org/10.1017/S0140525X07002221 "Jablonka, E., & Lamb, M. J. (2007). Précis of Evolution in Four Dimensions. Behavioral and Brain Sciences, 30(4), 353–365. https://doi.org/10.1017/S0140525X07002221")
@@ -84,7 +84,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		 		- Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
 	
 		- <details markdown="1">
-			<summary> Critiques of adaptationism and teleology:</summary>
+			<summary> Critiques of adaptationism and teleology</summary>
 	
 			- in Biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
 			- in (Evolutionary) Psychology: [Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
