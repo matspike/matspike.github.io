@@ -13,7 +13,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 
 1. Function and form in context:
 	* The costs and benefits of functional design in:
-		* <details>
+		<details>
 			<summary>Technology</summary>
 	
 			* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
