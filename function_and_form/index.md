@@ -28,7 +28,8 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
-	
+			* Cognition: [Huebner \& Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
+
 		- <details>
 			<summary>Humans:</summary>
 		
