@@ -24,24 +24,24 @@ All material for this course should be linked here, so if you have any questions
  		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
-			* Mechanisms: Selection, mutation, drift [Berkeley UCMP Understanding Evolution](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/)
-			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459)
-			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398)
-			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976)
-			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976)
+			* Mechanisms: Selection, mutation, drift [Berkeley UCMP Understanding Evolution](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
+			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459 "Wagner, G. P. (2015). Evolutionary innovations and novelties: Let us get down to business! Zoologischer Anzeiger - A Journal of Comparative Zoology, 256, 75–81. https://doi.org/10.1016/j.jcz.2015.04.006")
+			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
+			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
+			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
 		* Cultural Evolution
-			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0)
-			* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133)
+			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
+			* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133 "Caldwell, C. A., & Millen, A. E. (2008). Studying cumulative cultural evolution in the laboratory. Philosophical Transactions of the Royal Society B: Biological Sciences, 363(1509), 3529–3539. https://doi.org/10.1098/rstb.2008.0133")
 			* Theories: 
-				* Dual Inheritance Theory [Henrich & McElreath 2007](https://doi.org/10.1093/oxfordhb/9780198568308.013.0038)
-				* Cultural Attraction Theory [Miton 2022](https://psyarxiv.com/qs2et/)
-				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762)
+				* Dual Inheritance Theory [Henrich & McElreath 2007](https://doi.org/10.1093/oxfordhb/9780198568308.013.0038 "Henrich, J., & McElreath, R. (2007). Dual-inheritance theory: The evolution of human cultural capacities and cultural evolution. In L. Barrett & R. Dunbar (Eds.), Oxford Handbook of Evolutionary Psychology (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198568308.013.0038")
+				* Cultural Attraction Theory [Miton 2022](https://psyarxiv.com/qs2et/ "Miton, H. (2022). Cultural Attraction [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/qs2et")
+				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
 			* Granularity and scale
 	* Explaining Design
 		* Theories and Frameworks: 
 		 	* Adaptation: 
-		 	 	* Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879) 
-		 	 	* Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x)
+		 	 	* Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
+		 	 	* Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x "Spike, M. (2017). The evolution of linguistic rules. Biology & Philosophy, 32(6), 887–904. https://doi.org/10/gmstz9")
 		 	* Cognition: 
 		 	 	* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567)
 		 	 	* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir)
