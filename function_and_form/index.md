@@ -26,7 +26,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
  		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
-			* Mechanisms: Selection, mutation, drift [Berkeley UCMP Understanding Evolution](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
+			* Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
 			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459 "Wagner, G. P. (2015). Evolutionary innovations and novelties: Let us get down to business! Zoologischer Anzeiger - A Journal of Comparative Zoology, 256, 75–81. https://doi.org/10.1016/j.jcz.2015.04.006")
 			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
 			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
@@ -41,14 +41,14 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Granularity and scale
 	* Explaining Design
 		* Theories and Frameworks: 
-		 	* Adaptation: 
+			* Adaptation: 
 		 	 	* Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
 		 	 	* Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x "Spike, M. (2017). The evolution of linguistic rules. Biology & Philosophy, 32(6), 887–904. https://doi.org/10/gmstz9")
 		 	* Cognition: 
 		 	 	* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 	 	* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 		* Extensions: 
-		 	* Biology:
+			* Biology:
 		 		* Non-genetic inheritance: [Jablonka & Lamb 2007](https://doi.org/10.1017/S0140525X07002221 "Jablonka, E., & Lamb, M. J. (2007). Précis of Evolution in Four Dimensions. Behavioral and Brain Sciences, 30(4), 353–365. https://doi.org/10.1017/S0140525X07002221")
 		 		* Novelty, Plasticity & Niche Construction: [Sterelny 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9636-5_7 "Sterelny, K. (2009). Novelty, Plasticity and Niche Construction: The Influence of Phenotypic Variation on Evolution. In A. Barberousse, M. Morange, & T. Pradeu (Eds.), Mapping the Future of Biology: Evolving Concepts and Theories (pp. 93–110). Springer Netherlands. https://doi.org/10.1007/978-1-4020-9636-5_7")
 		 		* Extended Evolutionary Synthesis: [Laland et al 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1019 "Laland, K. N., Uller, T., Feldman, M. W., Sterelny, K., Müller, G. B., Moczek, A., Jablonka, E., & Odling-Smee, J. (2015). The extended evolutionary synthesis: Its structure, assumptions and predictions. Proceedings of the Royal Society B: Biological Sciences, 282(1813), 20151019. https://doi.org/10.1098/rspb.2015.1019")
