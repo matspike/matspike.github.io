@@ -20,15 +20,15 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
 			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
 			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
-		
+			</details>
+		- <details>
 			<summary>Biology</summary>
 	
 			* Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
 			* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
-	
-		</details>
+			</details>
 		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
