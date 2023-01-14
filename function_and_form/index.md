@@ -42,7 +42,6 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
 			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
 	
-			</details>
 		- <details>
 			<summary>Cultural Evolution</summary>
 	
@@ -56,6 +55,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 	
 		</details>
+		</details>
 	3. Explaining Design
 		- <details>
 			<summary>Theories and Frameworks:</summary>
@@ -67,7 +67,6 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		 		* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 		* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 	
-			</details>
 		- <details>
 			<summary>Extensions:</summary>
 	
@@ -79,7 +78,6 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				* 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39 "Clark, A. (2017). Embodied, Situated, and Distributed Cognition. In A Companion to Cognitive Science (pp. 506–517). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405164535.ch39")
 		 		* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
 	
-			</details>
 		- <details>
 			<summary> Critiques of adaptationism and teleology in:</summary>
 	
@@ -87,7 +85,9 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* (evolutionary) psychology: see [SEP entry, Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
 			* culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
 	
-			</details>
+		</details>
+		</details>
+		</details>
 2. Natural Communication
 	1. Biological communication
 		* Function as definitional
