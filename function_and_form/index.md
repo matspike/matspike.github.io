@@ -7,7 +7,9 @@ layout: default
 This is the course webpage for Matt Spike's 2023 Guided Research course at the universty of Edinburgh.
 All material for this course should be linked here, so if you have any questions this should be your first point of call.
 
-## Topics
+## Topics with selected readings
+
+Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested readings for each, but note that these are **not by any means mandatory**. Instead, see this as the first port of call if you're looking for some background on any of the topics. At the same time, this list is also far from exhaustive: if you want to go into *more* detail, go to the Zotero library I have curated for this class, which is split into the same categories as this list.
 
 1. Function and form in context:
 	* The costs and benefits of functional design in:
