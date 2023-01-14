@@ -29,9 +29,21 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
 	
+		- <details>
+			<summary>Humans:</summary>
+		
+			* Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., & Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
+			* Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., & Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
+			* Cognition [Lieder & Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., & Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43, e1. https://doi.org/10/gf23rr"
+			* Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
+			* Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
+			* Culture: {Henrich & Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., & Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724. https://doi.org/10.1098/rspb.2010.1191")
+
+
 		</details>
 		</details>
-		* Human cognition and culture
+		</details>
+		</details>
 	2. The origins of design
 		- <details>
 			<summary>Biological evolution</summary>
