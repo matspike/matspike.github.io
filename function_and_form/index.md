@@ -60,16 +60,17 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				- Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
 			- Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			- Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
+			
 	3. Explaining Design
 		- <details markdown="1">
 			<summary>Theories and Frameworks:</summary>
 		 
-		- Adaptation: 
-		 	- Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
-		 	- Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x "Spike, M. (2017). The evolution of linguistic rules. Biology & Philosophy, 32(6), 887–904. https://doi.org/10/gmstz9")
-		- Cognition: 
-		 	- Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
-		 	- Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
+			- Adaptation: 
+				- Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
+				- Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x "Spike, M. (2017). The evolution of linguistic rules. Biology & Philosophy, 32(6), 887–904. https://doi.org/10/gmstz9")
+			- Cognition: 
+				- Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
+				- Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 	
 		- <details markdown="1">
 			<summary>Extensions:</summary>
