@@ -16,50 +16,50 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		- <details>
 			<summary>Technology</summary>
 	
-			* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
-			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
-			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
-			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
+		* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
+		* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
+		* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
+		* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
 		
 		- <details>
 			<summary>Biology</summary>
 	
-			* Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
-			* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
-			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
-			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
-			* Cognition: [Huebner \& Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
+		* Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
+		* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
+		* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
+		* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
+		* Cognition: [Huebner \& Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
 
 		- <details>
 			<summary>Humans:</summary>
 		
-			* Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
-			* Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., \& Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
-			* Cognition: [Lieder Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43")
-			* Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
-			* Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
-			* Culture: [Henrich and Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
+		* Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
+		* Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., \& Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
+		* Cognition: [Lieder Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43")
+		* Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
+		* Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
+		* Culture: [Henrich and Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
 	2. The origins of design
 		- <details>
 			<summary>Biological evolution</summary>
 	
-			* Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
-			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459 "Wagner, G. P. (2015). Evolutionary innovations and novelties: Let us get down to business! Zoologischer Anzeiger - A Journal of Comparative Zoology, 256, 75–81. https://doi.org/10.1016/j.jcz.2015.04.006")
-			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
-			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
-			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
+		* Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
+		* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459 "Wagner, G. P. (2015). Evolutionary innovations and novelties: Let us get down to business! Zoologischer Anzeiger - A Journal of Comparative Zoology, 256, 75–81. https://doi.org/10.1016/j.jcz.2015.04.006")
+		* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
+		* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
+		* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
 	
 		- <details>
 			<summary>Cultural Evolution</summary>
 	
-			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
-			* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133 "Caldwell, C. A., & Millen, A. E. (2008). Studying cumulative cultural evolution in the laboratory. Philosophical Transactions of the Royal Society B: Biological Sciences, 363(1509), 3529–3539. https://doi.org/10.1098/rstb.2008.0133")
-			* Theories: 
-				* Dual Inheritance Theory [Henrich & McElreath 2007](https://doi.org/10.1093/oxfordhb/9780198568308.013.0038 "Henrich, J., & McElreath, R. (2007). Dual-inheritance theory: The evolution of human cultural capacities and cultural evolution. In L. Barrett & R. Dunbar (Eds.), Oxford Handbook of Evolutionary Psychology (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198568308.013.0038")
-				* Cultural Attraction Theory [Miton 2022](https://psyarxiv.com/qs2et/ "Miton, H. (2022). Cultural Attraction [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/qs2et")
-				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
-			* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
-			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
+		* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
+		* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133 "Caldwell, C. A., & Millen, A. E. (2008). Studying cumulative cultural evolution in the laboratory. Philosophical Transactions of the Royal Society B: Biological Sciences, 363(1509), 3529–3539. https://doi.org/10.1098/rstb.2008.0133")
+		* Theories: 
+			* Dual Inheritance Theory [Henrich & McElreath 2007](https://doi.org/10.1093/oxfordhb/9780198568308.013.0038 "Henrich, J., & McElreath, R. (2007). Dual-inheritance theory: The evolution of human cultural capacities and cultural evolution. In L. Barrett & R. Dunbar (Eds.), Oxford Handbook of Evolutionary Psychology (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198568308.013.0038")
+			* Cultural Attraction Theory [Miton 2022](https://psyarxiv.com/qs2et/ "Miton, H. (2022). Cultural Attraction [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/qs2et")
+			* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
+		* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
+		* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 
 	3. Explaining Design
 		- <details>
