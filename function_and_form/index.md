@@ -13,8 +13,8 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 
 1. Function and form in context:
 	* The costs and benefits of functional design in:
- 		* Technology:
- 			* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
+		* Technology:
+			* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
  			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
  			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
  			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
