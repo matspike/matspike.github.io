@@ -20,7 +20,8 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
 			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
 			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
-			
+		
+		- <details>
 			<summary>Biology</summary>
 	
 			* Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
@@ -28,6 +29,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
 	
+		- <details>
 			<summary>Humans:</summary>
 		
 			* Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
@@ -37,7 +39,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
 			* Culture: [Henrich and Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
 	2. The origins of design
-	
+		- <details>
 			<summary>Biological evolution</summary>
 	
 			* Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
@@ -46,6 +48,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
 			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
 	
+		- <details>
 			<summary>Cultural Evolution</summary>
 	
 			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
@@ -58,7 +61,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 
 	3. Explaining Design
-	
+		- <details>
 			<summary>Theories and Frameworks:</summary>
 		 
 			* Adaptation: 
@@ -68,6 +71,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		 		* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 		* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
 	
+		- <details>
 			<summary>Extensions:</summary>
 	
 			* Biology:
@@ -78,6 +82,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				* 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39 "Clark, A. (2017). Embodied, Situated, and Distributed Cognition. In A Companion to Cognitive Science (pp. 506–517). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405164535.ch39")
 		 		* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
 	
+		- <details>
 			<summary> Critiques of adaptationism and teleology:</summary>
 	
 			* in Biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
