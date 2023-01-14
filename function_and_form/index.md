@@ -31,13 +31,18 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			</details>
 		* Human cognition and culture
 	* The origins of design
-		* Biological evolution:
+		- <details>
+			<summary>Biological evolution</summary>
+	
 			* Mechanisms: Selection, mutation, drift [Berkeley UCMP](https://evolution.berkeley.edu/evolution-101/mechanisms-the-processes-of-evolution/ "© UC Museum of Paleontology Understanding Evolution, www.understandingevolution.org")
 			* Evolutionary Novelties: [Wagner 2010](https://www.sciencedirect.com/science/article/pii/S0960982209019459 "Wagner, G. P. (2015). Evolutionary innovations and novelties: Let us get down to business! Zoologischer Anzeiger - A Journal of Comparative Zoology, 256, 75–81. https://doi.org/10.1016/j.jcz.2015.04.006")
 			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
 			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
 			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
-		* Cultural Evolution
+			</details>
+		- <details>
+			<summary>Cultural Evolution</summary>
+	
 			* Overview: [Mesoudi 2016](https://link.springer.com/article/10.1007/s11692-015-9320-0 "Mesoudi, A. (2016). Cultural Evolution: A Review of Theory, Findings and Controversies. Evolutionary Biology, 43(4), 481–497. https://doi.org/10.1007/s11692-015-9320-0")
 			* Cumulative culture [Caldwell & Millen 2008](https://doi.org/10.1098%2Frstb.2008.0133 "Caldwell, C. A., & Millen, A. E. (2008). Studying cumulative cultural evolution in the laboratory. Philosophical Transactions of the Royal Society B: Biological Sciences, 363(1509), 3529–3539. https://doi.org/10.1098/rstb.2008.0133")
 			* Theories: 
@@ -46,17 +51,21 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
 			* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
-			* 
- 
+		</details>
 	* Explaining Design
-		* Theories and Frameworks: 
+		- <details>
+			<summary>Theories and Frameworks:</summary>
+		 
 			* Adaptation: 
 		 		* Meyr's Ultimate/Proximate Distinction: [Laland et al 2011](https://www.science.org/doi/abs/10.1126/science.1210879 "Laland, K. N., Sterelny, K., Odling-Smee, J., Hoppitt, W., & Uller, T. (2011). Cause and Effect in Biology Revisited: Is Mayr’s Proximate-Ultimate Dichotomy Still Useful? Science, 334(6062), 1512–1516. https://doi.org/10/bn7zk9") 
 		 		* Tinbergen's 4 Questions [Spike 2017](http://link.springer.com/10.1007/s10539-018-9610-x "Spike, M. (2017). The evolution of linguistic rules. Biology & Philosophy, 32(6), 887–904. https://doi.org/10/gmstz9")
 			* Cognition: 
 		 		* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 		* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
-		* Extensions: 
+			</details>
+		- <details>
+			<summary>Extensions:</summary>
+	
 			* Biology:
 				* Non-genetic inheritance: [Jablonka & Lamb 2007](https://doi.org/10.1017/S0140525X07002221 "Jablonka, E., & Lamb, M. J. (2007). Précis of Evolution in Four Dimensions. Behavioral and Brain Sciences, 30(4), 353–365. https://doi.org/10.1017/S0140525X07002221")
 				* Novelty, Plasticity & Niche Construction: [Sterelny 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9636-5_7 "Sterelny, K. (2009). Novelty, Plasticity and Niche Construction: The Influence of Phenotypic Variation on Evolution. In A. Barberousse, M. Morange, & T. Pradeu (Eds.), Mapping the Future of Biology: Evolving Concepts and Theories (pp. 93–110). Springer Netherlands. https://doi.org/10.1007/978-1-4020-9636-5_7")
@@ -64,10 +73,14 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Cognition:
 				* 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39 "Clark, A. (2017). Embodied, Situated, and Distributed Cognition. In A Companion to Cognitive Science (pp. 506–517). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405164535.ch39")
 		 		* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
-		* Critiques of adaptationism and teleology in:
+			</details>
+		- <details>
+			<summary> Critiques of adaptationism and teleology in:</summary>
+	
 			* biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
 			* (evolutionary) psychology: see [SEP entry, Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
 			* culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
+			</details>
 2. Natural Communication
 	* Biological communication
 		* Function as definitional
