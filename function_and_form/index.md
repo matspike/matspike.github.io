@@ -11,8 +11,16 @@ All material for this course should be linked here, so if you have any questions
 
 1. Function and form in context:
 	* The costs and benefits of functional design in:
- 		* Technology
- 		* Biology
+ 		* Technology:
+ 			* Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203)
+ 			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408)
+ 			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516)
+ 			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212)
+ 		* Biology:
+ 			* Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615)
+ 			* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53)
+ 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691)
+ 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467)
  		* Human cognition and culture
 	* The origins of design
 		* Biological evolution:
