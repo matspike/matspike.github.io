@@ -93,7 +93,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			<summary> Critiques of adaptationism and teleology:</summary>
 	
 			* in Biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
-			* in (Evolutionary) Psychology: [SEP entry, Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
+			* in (Evolutionary) Psychology: [Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
 			* in Evolutionary Psychology (again): [Lloyd 1999](https://doi.org/10.1023/A:1006638501739 "Lloyd, E. A. (1999). Evolutionary Psychology: The Burdens of Proof. Biology and Philosophy, 14(2), 211–233. https://doi.org/10.1023/A:1006638501739")
 			* in Culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
 	
