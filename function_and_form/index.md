@@ -58,8 +58,8 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				* Dual Inheritance Theory [Henrich & McElreath 2007](https://doi.org/10.1093/oxfordhb/9780198568308.013.0038 "Henrich, J., & McElreath, R. (2007). Dual-inheritance theory: The evolution of human cultural capacities and cultural evolution. In L. Barrett & R. Dunbar (Eds.), Oxford Handbook of Evolutionary Psychology (p. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198568308.013.0038")
 				* Cultural Attraction Theory [Miton 2022](https://psyarxiv.com/qs2et/ "Miton, H. (2022). Cultural Attraction [Preprint]. PsyArXiv. https://doi.org/10.31234/osf.io/qs2et")
 				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
-				* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
-				* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
+			* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
+			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 	3. Explaining Design
 		- <details>
 			<summary>Theories and Frameworks:</summary>
