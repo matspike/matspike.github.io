@@ -20,7 +20,8 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
 			* Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
 			* The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
-			</details>
+			
+</details>
 		- <details>
 			<summary>Biology</summary>
 	
@@ -28,6 +29,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
 			* Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
 			* Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
+	
 			</details>
 		* Human cognition and culture
 	2. The origins of design
@@ -39,6 +41,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Development and Constraints: [Arnold 1992](https://www.journals.uchicago.edu/doi/abs/10.1086/285398 "Arnold, S. J. (1992). Constraints on Phenotypic Evolution. The American Naturalist, 140, S85–S107. https://doi.org/10.1086/285398")
 			* Evolutionary Ecology: [Collins 1986](https://www.jstor.org/stable/4330976 "Collins, J. P. (1986). 'Evolutionary Ecology' and the Use of Natural Selection in Ecological Theory. Journal of the History of Biology, 19(2), 257–288. https://doi.org/10.1007/BF00138879")
 			* Systems Biology: [Aderem 2005](https://www.jstor.org/stable/4330976 "Aderem, A. (2005). Systems Biology: Its Practice and Challenges. Cell, 121(4), 511–513. https://doi.org/10.1016/j.cell.2005.04.020")
+	
 			</details>
 		- <details>
 			<summary>Cultural Evolution</summary>
@@ -51,6 +54,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				* Paris vs California: [Buskell 2019](https://doi.org/10.1002/evan.21762 "Buskell, A. (2019). Looking for middle ground in cultural attraction theory. Evolutionary Anthropology: Issues, News, and Reviews, 28(1), 14–17. https://doi.org/10.1002/evan.21762")
 			* Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			* Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
+	
 		</details>
 	3. Explaining Design
 		- <details>
@@ -62,6 +66,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Cognition: 
 		 		* Overview of Cognitive Science: [Oberlander 2006](https://www.sciencedirect.com/science/article/pii/B0080448542008567 "Oberlander, J. (2006). Cognitive Science: Overview. In K. Brown (Ed.), Encyclopedia of Language & Linguistics (Second Edition) (pp. 562–568). Elsevier. https://doi.org/10.1016/B0-08-044854-2/00856-7")
 		 		* Marr's 4 levels: [Elber-Dorozko & Shagrir, 2018](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315643670-16/computation-levels-cognitive-neural-sciences-lotem-elber-dorozko-oron-shagrir "Elber-Dorozko, L., & Shagrir, O. (2018). Computation and levels in the cognitive and neural sciences. In The Routledge Handbook of the Computational Mind. Routledge.")
+	
 			</details>
 		- <details>
 			<summary>Extensions:</summary>
@@ -73,6 +78,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Cognition:
 				* 4e Cognition: [Clark 2017](https://doi.org/10.1002/9781405164535.ch39 "Clark, A. (2017). Embodied, Situated, and Distributed Cognition. In A Companion to Cognitive Science (pp. 506–517). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781405164535.ch39")
 		 		* Culture & Cognition: [Heyes 2018](https://doi.org/10.1098/rstb.2017.0051 "Heyes, C. (2018). Enquire within: Cultural evolution and cognitive science. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1743), 20170051. https://doi.org/10.1098/rstb.2017.0051")
+	
 			</details>
 		- <details>
 			<summary> Critiques of adaptationism and teleology in:</summary>
@@ -80,6 +86,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* biology: [Gould & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Gould, S. J., Lewontin, R. C., Maynard Smith, J., & Holliday, R. (1997). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. Series B. Biological Sciences, 205(1161), 581–598. https://doi.org/10.1098/rspb.1979.0086")
 			* (evolutionary) psychology: see [SEP entry, Downes 2021](https://plato.stanford.edu/entries/evolutionary-psychology/ "Downes, Stephen M., 'Evolutionary Psychology', The Stanford Encyclopedia of Philosophy (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/spr2021/entries/evolutionary-psychology/>") 
 			* culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
+	
 			</details>
 2. Natural Communication
 	1. Biological communication
