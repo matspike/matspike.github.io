@@ -12,7 +12,7 @@ All material for this course should be linked here, so if you have any questions
 Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested background readings for each, but note that these are **definitely not mandatory**: see this as the first port of call if you want to brush up on any of the topics. Of course, this list is far from exhaustive: for *more* detail, you should first go to the Zotero library I have curated for this class, which is split along the same categories as this list.
 
 1. Function and form in context:
-	1. The costs and benefits of functional design in:
+	- The costs and benefits of functional design in:
 		- <details markdown="1">
 			<summary>Technology</summary>
 	
@@ -39,7 +39,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
 			- Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
 			- Culture: [Henrich & Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
-	2. The origins of design
+	- The origins of design
 		- <details markdown="1">
 			<summary>Biological evolution</summary>
 	
@@ -61,7 +61,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Systems Approaches: [Buskell 2019](https://doi.org/10.1057/s41599-019-0343-5 "Buskell, A., Enquist, M., & Jansson, F. (2019). A systems approach to cultural evolution. Palgrave Communications, 5(1), 131. https://doi.org/10.1057/s41599-019-0343-5")
 			- Fidelity and Granularity: [Charbonneah & Bouratt 2021](https://doi.org/10.1007/s11229-021-03047-1 "Charbonneau, M., & Bourrat, P. (2021). Fidelity and the grain problem in cultural evolution. Synthese, 199(3), 5815–5836. https://doi.org/10.1007/s11229-021-03047-1")
 			
-	3. Explaining Design
+	- Explaining Design
 		- <details markdown="1">
 			<summary>Theories and Frameworks</summary>
 		 
@@ -93,14 +93,14 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 	
 		
 2. Natural Communication
-	1. Biological communication
-		* Function as definitional
-		* Diverse forms, limited functions
-		* Manipulation, inclusive fitness, or group selection?
-	2. Human communication
-		* Are language and communication co-extensive?
-		* Diverse forms, unlimited function, and the role of pragmatics
-		* Language design: thought or communication?
+	- Biological communication
+		- Function as definitional
+		- Diverse forms, limited functions
+		- Manipulation, inclusive fitness, or group selection?
+	- Human communication
+		- Are language and communication co-extensive?
+		- Diverse forms, unlimited function, and the role of pragmatics
+		- Language design: thought or communication?
 4.  Information Theory: function and form in generalised communication
 5. 
   
