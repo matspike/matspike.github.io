@@ -37,7 +37,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			* Cognition: [Lieder Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43")
 			* Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
 			* Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
-			* Culture: {Henrich & Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., \& Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
+			* Culture: {Henrich and Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., \& Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
 
 
 		</details>
