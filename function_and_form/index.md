@@ -103,9 +103,14 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 	- <details markdown="1">
 		<summary>Biological communication</summary>
 		
-		- Function as definitional
-		- Diverse forms, limited functions:
+		- <details markdown="1">
+			<summary>Function as definitional</summary>
+			- bleep
+			- bloop
 
+		- <details markdown="1">
+			<summary>Diverse forms, limited functions:</summary>
+			
 			- <details markdown="1">
 				<summary>In the organism</summary>
 
@@ -145,10 +150,23 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 	- <details markdown="1">
 		<summary>Human communication</summary>
 		
-		- Are language and communication co-extensive?
-		- Diverse forms, unlimited function, and the role of pragmatics
-		- Language design: thought or communication?
+		- <details markdown="1">
+			<summary>Are language and communication co-extensive?</summary>
+			- Bleepo
+			- Blloopo	
+			- yupj
 
+		- <details markdown="1">
+			<summary>Diverse forms, unlimited function, and the role of pragmatics</summary>
+			- Bleepo
+			- Blloopo	
+			- yupj
+
+		- <details markdown="1">
+			<summary>Language design: thought or communication?</summary>
+			- Bleepo
+			- Blloopo	
+			- yupj
 
 4.  Information Theory: function and form in generalised communication
 5. 
