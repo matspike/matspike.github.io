@@ -98,7 +98,6 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- in Evolutionary Psychology (again): [Lloyd 1999](https://doi.org/10.1023/A:1006638501739 "Lloyd, E. A. (1999). Evolutionary Psychology: The Burdens of Proof. Biology and Philosophy, 14(2), 211–233. https://doi.org/10.1023/A:1006638501739")
 			- in Culture: [Fracchia & Lewontin 1979](https://royalsocietypublishing.org/doi/10.1098/rspb.1979.0086 "Fracchia, J., & Lewontin, R. C. (1999). Does Culture Evolve? History and Theory, 38(4), 52–78. https://doi.org/10/dxhwmk")
 	
-		
 2. Natural Communication
 	- <details markdown="1">
 		<summary>Biological communication</summary>
