@@ -13,7 +13,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 
 1. Function and form in context:
 	- <details markdown="1">
-		<summary>The costs and benefits of functional design in:</summary> 
+		<summary>The costs and benefits of functional design</summary> 
 		
 		- <details markdown="1">
 			<summary>Technology</summary>
@@ -104,6 +104,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		
 		- <details markdown="1">
 			<summary>Function as definitional</summary>
+			
 			- bleep
 			- bloop
 
@@ -151,18 +152,21 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		
 		- <details markdown="1">
 			<summary>Are language and communication co-extensive?</summary>
+			
 			- Bleepo
 			- Blloopo	
 			- yupj
 
 		- <details markdown="1">
 			<summary>Diverse forms, unlimited function, and the role of pragmatics</summary>
+			
 			- Bleepo
 			- Blloopo	
 			- yupj
 
 		- <details markdown="1">
 			<summary>Language design: thought or communication?</summary>
+			
 			- Bleepo
 			- Blloopo	
 			- yupj
