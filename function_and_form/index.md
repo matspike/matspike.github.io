@@ -105,8 +105,9 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		- <details markdown="1">
 			<summary>Function as definitional</summary>
 			
-			- bleep
-			- bloop
+			- Definitions [Scott-Phillips 2008](https://doi.org/10.1111/j.1420-9101.2007.01497.x "Scott-Phillips, T. C. (2008). Defining biological communication. Journal of Evolutionary Biology, 21(2), 387–395. https://doi.org/10.1111/j.1420-9101.2007.01497.x")
+			- Taxonomy of Biological Information: [Wagner & Danchin 2010](https://doi.org/10.1111/j.1600-0706.2009.17315.x "Wagner, Richard H., and Étienne Danchin. A Taxonomy of Biological Information. Oikos 119, no. 2 (2010): 203–9. https://doi.org/10.1111/j.1600-0706.2009.17315.x.")
+			- As systems: [Hebets et al 2016](https://doi.org/10.1098/rspb.2015.2889 "Hebets, E. A., Barron, A. B., Balakrishnan, C. N., Hauber, M. E., Mason, P. H., & Hoke, K. L. (2016). A systems approach to animal communication. Proceedings of the Royal Society B: Biological Sciences, 283(1826), 20152889. https://doi.org/10.1098/rspb.2015.2889")
 
 		- <details markdown="1">
 			<summary>Diverse forms, limited functions:</summary>
@@ -129,21 +130,23 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- <details markdown="1">
 				<summary>Functions:</summary>
 
-				- Taxonomy of Biological Information: [Wagner & Danchin 2010](https://doi.org/10.1111/j.1600-0706.2009.17315.x "Wagner, Richard H., and Étienne Danchin. A Taxonomy of Biological Information. Oikos 119, no. 2 (2010): 203–9. https://doi.org/10.1111/j.1600-0706.2009.17315.x.")
 				- Social signals: [Roberts & Roberts 2020](https://doi.org/10.1111/brv.12553 "Roberts, Anna I., and Sam G. B. Roberts. Communicative Roots of Complex Sociality and Cognition. Biological Reviews 95, no. 1 (2020): 51–73. https://doi.org/10.1111/brv.12553.")
+				- Signalling Quality [Sheehan & Bergman 2016](https://doi.org/10.1093/beheco/arv109 "Sheehan, Michael J., and Thore J. Bergman. 'Is There an Evolutionary Trade-off between Quality Signaling and Social Recognition?' Behavioral Ecology 27, no. 1 (January 1, 2016): 2–13. https://doi.org/10.1093/beheco/arv109.")
 				- Deception: [Martinez 2019](https://doi.org/10.1016/j.shpsc.2019.101184 "Martínez, M. (2019). Deception as cooperation. Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences, 77, 101184.")
+				- Functional Information Taxonomy [Fresco, Ginsburg & Jablonka 2020](https://doi.org/10.1007/s13164-018-0410-7 "Fresco, N., Ginsburg, S., & Jablonka, E. (2020). Functional Information: A Graded Taxonomy of Difference Makers. Review of Philosophy and Psychology, 11(3), 547–567. https://doi.org/10.1007/s13164-018-0410-7")
+
 
 			- <details markdown="1">
 				<summary>Form:</summary>
-
-				- Signal Quality [Sheehan & Bergman 2016](https://doi.org/10.1093/beheco/arv109 "Sheehan, Michael J., and Thore J. Bergman. 'Is There an Evolutionary Trade-off between Quality Signaling and Social Recognition?' Behavioral Ecology 27, no. 1 (January 1, 2016): 2–13. https://doi.org/10.1093/beheco/arv109.")
+				
+				- Signal Detection & Noise [Wiley 2013](https://doi.org/10.1007/978-3-642-41494-7_2 "Wiley, R. H. (2013). Signal Detection, Noise, and the Evolution of Communication. In H. Brumm (Ed.), Animal Communication and Noise (pp. 7–30). Springer. https://doi.org/10.1007/978-3-642-41494-7_2")
 				- Multimodality: [Bro-Jørgensen 2010](https://doi.org/10.1016/j.tree.2009.11.003 "Bro-Jørgensen, J. (2010). Dynamics of multiple signalling systems: animal communication in a world in flux. Trends in Ecology & Evolution, 25(5), 292-300.")
 				- Plasticity: [Ords, Stamps & Losos 2010](https://doi.org/10.1111/j.1558-5646.2010.01056.x "Ord, Terry J., Judy A. Stamps, and Jonathan B. Losos. Adaptation and Plasticity of Animal Communication in Fluctuating Environments. Evolution 64, no. 11 (2010): 3134–48. https://doi.org/10.1111/j.1558-5646.2010.01056.x")
 
 		- <details markdown="1">
 			<summary>Manipulation, inclusive fitness, or group selection?</summary>
 
-			- Bloop
+			- [Owren et al 2010](https://doi.org/10.1007/s10539-010-9224-4 "Owren, M. J., Rendall, D., & Ryan, M. J. (2010). Redefining animal signaling: Influence versus information in communication. Biology & Philosophy, 25(5), 755–780. https://doi.org/10.1007/s10539-010-9224-4")
 			- Blip
 			- Blong	
 	
