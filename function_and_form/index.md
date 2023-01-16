@@ -140,12 +140,12 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 				- Multimodality: [Bro-Jørgensen 2010](https://doi.org/10.1016/j.tree.2009.11.003 "Bro-Jørgensen, J. (2010). Dynamics of multiple signalling systems: animal communication in a world in flux. Trends in Ecology & Evolution, 25(5), 292-300.")
 				- Plasticity: [Ords, Stamps & Losos 2010](https://doi.org/10.1111/j.1558-5646.2010.01056.x "Ord, Terry J., Judy A. Stamps, and Jonathan B. Losos. Adaptation and Plasticity of Animal Communication in Fluctuating Environments. Evolution 64, no. 11 (2010): 3134–48. https://doi.org/10.1111/j.1558-5646.2010.01056.x")
 
-			- <details markdown="1">
-				<summary>Manipulation, inclusive fitness, or group selection?</summary>
+		- <details markdown="1">
+			<summary>Manipulation, inclusive fitness, or group selection?</summary>
 
-				- Bloop
-				- Blip
-				- Blong	
+			- Bloop
+			- Blip
+			- Blong	
 	
 	- <details markdown="1">
 		<summary>Human communication</summary>
