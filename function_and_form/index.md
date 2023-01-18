@@ -3,8 +3,7 @@ title: Function and Form in Language Evolution
 layout: default
 ---
 
-<script>
-function openAll() {
+<script>function openAll() {
   var elems = document.getElementsByTagName("details");
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details on page";
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
@@ -13,8 +12,8 @@ function openAll() {
     elems[i].setAttribute("open", "true");
     }
 }
-				   
-function closeAll() {	
+</script>		   
+<script>function closeAll() {	
   var elems = document.getElementsByTagName("details");
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details on Page";	
