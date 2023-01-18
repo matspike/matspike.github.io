@@ -3,6 +3,7 @@ title: Function and Form in Language Evolution
 layout: default
 ---
 
+
 <script> 
 function openAll() {
   var elems = document.getElementsByTagName("details");
@@ -14,7 +15,9 @@ function openAll() {
     }
 }
 </script>		   
-<script>function closeAll() {	
+	
+<script>
+function closeAll() {	
   var elems = document.getElementsByTagName("details");
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details on Page";	
@@ -24,6 +27,7 @@ function openAll() {
   }
 }				   
 </script>
+	
 
 # Form and Function in Language Evolution
 This is the course webpage for Matt Spike's 2023 Guided Research course at the universty of Edinburgh.
