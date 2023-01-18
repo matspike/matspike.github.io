@@ -3,7 +3,8 @@ title: Function and Form in Language Evolution
 layout: default
 ---
 
-<script>function openAll() {
+<script> 
+function openAll() {
   var elems = document.getElementsByTagName("details");
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details on page";
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
