@@ -11,7 +11,7 @@ All material for this course should be linked here, so if you have any questions
 
 Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested background readings for each, but note that these are **definitely not mandatory**: see this as the first port of call if you want to brush up on any of the topics. Of course, this list is far from exhaustive: for *more* detail, you should first go to the Zotero library I have curated for this class, which is split along the same categories as this list.
 
-<button id="btnExpandHideAllDetails" onclick="openAll()" style="color:orange;background-color:black;">Expand All Details on Page</button>
+<button id="btnExpandHideAllDetails" onclick="openAll()" style="color:orange;background-color:#ffffff00;">Expand all topics</button>
 
 1. Function and form in context:
 	- <details markdown="1">
@@ -183,7 +183,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 <script> 
 function openAll() {
   var elems = document.getElementsByTagName("details");
-  document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details on page";
+  document.getElementById("btnExpandHideAllDetails").innerHTML = "Collapse all topics";
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
 
   for (var i = 4; i <= elems.length; i++){
@@ -196,7 +196,7 @@ function openAll() {
 function closeAll() {	
   var elems = document.getElementsByTagName("details");
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
-  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details on Page";	
+  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand all topics";	
   
   for (var i = 4; i <= elems.length; i++){
     elems[i].removeAttribute("open");
