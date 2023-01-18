@@ -3,32 +3,6 @@ title: Function and Form in Language Evolution
 layout: default
 ---
 
-
-<script> 
-function openAll() {
-  var elems = document.getElementsByTagName("details");
-  document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details on page";
-  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
-
-  for (var i = 4; i <= elems.length; i++){
-    elems[i].setAttribute("open", "true");
-    }
-}
-</script>		   
-	
-<script>
-function closeAll() {	
-  var elems = document.getElementsByTagName("details");
-  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
-  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details on Page";	
-  
-  for (var i = 4; i <= elems.length; i++){
-    elems[i].removeAttribute("open");
-  }
-}				   
-</script>
-	
-
 # Form and Function in Language Evolution
 This is the course webpage for Matt Spike's 2023 Guided Research course at the universty of Edinburgh.
 All material for this course should be linked here, so if you have any questions this should be your first point of call.
@@ -205,3 +179,27 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 4.  Information Theory: function and form in generalised communication
 5. 
   
+
+<script> 
+function openAll() {
+  var elems = document.getElementsByTagName("details");
+  document.getElementById("btnExpandHideAllDetails").innerHTML = "Hide All Details on page";
+  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
+
+  for (var i = 4; i <= elems.length; i++){
+    elems[i].setAttribute("open", "true");
+    }
+}
+</script>		   
+	
+<script>
+function closeAll() {	
+  var elems = document.getElementsByTagName("details");
+  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
+  document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand All Details on Page";	
+  
+  for (var i = 4; i <= elems.length; i++){
+    elems[i].removeAttribute("open");
+  }
+}				   
+</script>
