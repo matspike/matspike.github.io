@@ -16,33 +16,33 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 1. Function and form in context:
 	- <details markdown="1">
 		<summary>The costs and benefits of functional design</summary> 
-		
-	- <details markdown="1">
-		<summary>Technology</summary>
+	
+		- <details markdown="1">
+			<summary>Technology</summary>
 
-		- Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
-		- Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
-		- Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
-		- The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
+			- Allocating cost and benefits: [Adler & Posner 1999](https://heinonline.org/HOL/P?h=hein.journals/ylr109&i=203 "Adler, M. D., & Posner, E. A. (1999). Rethinking Cost-Benefit Analysis. Yale Law Journal, 109(2), 165–248. https://doi.org/10.2307/797489")
+			- Design: [Mantei 1988](https://doi.org/10.1145/42404.42408 "Mantei, M. M., & Teorey, T. J. (1988). Cost/benefit analysis for incorporating human factors in the software lifecycle. Communications of the ACM, 31(4), 428–439. https://doi.org/10.1145/42404.42408")
+			- Decisions & Risk: [Fischhoff 2020](https://www.science.org/doi/full/10.1126/science.aaa6516 "Fischhoff, B. (2015). The realities of risk-cost-benefit analysis. Science, 350(6260), aaa6516. https://doi.org/10.1126/science.aaa6516")
+			- The Ford Pinto Case: [Smith 2017](https://heinonline.org/HOL/P?h=hein.journals/twlram2016&i=212 "Smith, B. W. (2017) THE TROLLEY AND THE PINTO: COST- BENEFIT ANALYSIS IN AUTOMATED DRIVING AND OTHER CYBER- PHYSICAL SYSTEMS. Texas A&M Law Review, 4(4(2)), 197–208.")
 
-	- <details markdown="1">
-		<summary>Biology</summary>
+		- <details markdown="1">
+			<summary>Biology</summary>
 
-		- Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
-		- Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
-		- Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
-		- Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
-		- Cognition: [Huebner & Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
+			- Body size and metabolism: [Kozłowski, Konarzewski, & Czarnoleski 2020](https://doi.org/10.1111/brv.12615 "Kozłowski, J., Konarzewski, M., & Czarnoleski, M. (2020). Coevolution of body size and metabolic rate in vertebrates: A life-history perspective. Biological Reviews, 95(5), 1393–1417. https://doi.org/10.1111/brv.12615")
+			- Functional traits: [Barr, Boisvert & Bateman 2021](https://www.mdpi.com/2221-3759/9/4/53 "Barr, J. I., Boisvert, C. A., & Bateman, P. W. (2021). At What Cost? Trade-Offs and Influences on Energetic Investment in Tail Regeneration in Lizards Following Autotomy. Journal of Developmental Biology, 9(4), 53. https://doi.org/10.3390/jdb9040053")
+			- Behaviour: [Griffiths 1986](https://www.jstor.org/stable/4691 "Griffiths, D. (1986). Pit Construction by Ant-Lion Larvae: A Cost-Benefit Analysis. Journal of Animal Ecology, 55(1), 39–57. https://doi.org/10.2307/4691")
+			- Learning: [Johnston et al 1982](https://www.sciencedirect.com/science/article/pii/S0065345408600467 "Johnston, T. D. (1982). Selective Costs and Benefits in the Evolution of Learning. In J. S. Rosenblatt, R. A. Hinde, C. Beer, & M.-C. Busnel (Eds.), Advances in the Study of Behavior (Vol. 12, pp. 65–106). Academic Press. https://doi.org/10.1016/S0065-3454(08)60046-7")
+			- Cognition: [Huebner & Schulkin 2022 Chapter 1](https://doi.org/10.1017/9781108982191 "Huebner, B., & Schulkin, J. (2022). Biological Cognition (1st ed.). Cambridge University Press. https://doi.org/10.1017/9781108982191")
 
-	- <details markdown="1">
-		<summary>Humans</summary>
+		- <details markdown="1">
+			<summary>Humans</summary>
 
-		- Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
-		- Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., \& Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
-		- Cognition: [Lieder Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43")
-		- Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
-		- Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
-		- Culture: [Henrich & Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
+			- Physiology: [Pontzer, Raichlen & Sockol 2009](https://doi.org/10.1016/j.jhevol.2008.09.001 "Pontzer, H., Raichlen, D. A., \& Sockol, M. D. (2009). The metabolic cost of walking in humans, chimpanzees, and early hominins. Journal of Human Evolution, 56(1), 43–54. https://doi.org/10.1016/j.jhevol.2008.09.001")
+			- Behaviour: [Nettle 2013](https://doi.org/10/f463mg "Nettle, D., Gibson, M. A., Lawson, D. W., \& Sear, R. (2013). Human behavioral ecology: Current research and future prospects. Behavioral Ecology, 24(5), 1031–1040. https://doi.org/10/f463mg")
+			- Cognition: [Lieder Griffiths 2020](https://doi.org/10/gf23rr "Lieder, F., Griffiths, T. L. (2020). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. Behavioral and Brain Sciences, 43")
+			- Social Learning: [Boyd & Richerson 2011](https://doi.org/10/cmc4j7 "Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential for human adaptation. Proceedings of the National Academy of Sciences, 108(Supplement_2), 10918–10925. https://doi.org/10/cmc4j7")
+			- Social Cognition: [Herrmann et al 2007](https://doi.org/10/fmsz3g "Herrmann, E., Call, J., Hernandez-Lloreda, M. V., Hare, B., \& Tomasello, M. (2007). Humans Have Evolved Specialized Skills of Social Cognition: The Cultural Intelligence Hypothesis. Science, 317(5843), 1360–1366. https://doi.org/10/fmsz3g")
+			- Culture: [Henrich & Henrich 2010](https://doi.org/10.1098/rspb.2010.1191 "Henrich, J., Henrich, N. (2010). The evolution of cultural adaptations: Fijian food taboos protect against dangerous marine toxins. Proceedings of the Royal Society B: Biological Sciences, 277(1701), 3715–3724")
 	
 	- <details markdown="1">
 		<summary>The origins of design</summary>
