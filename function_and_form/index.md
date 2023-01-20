@@ -14,6 +14,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:orange;background-color:#ffffff00;">Expand all topics</button>
 
 1. Function and form in context:
+
 	- <details markdown="1">
 		<summary>The costs and benefits of functional design</summary> 
 	
