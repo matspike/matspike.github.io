@@ -190,7 +190,20 @@ function openAll() {
     elems[i].setAttribute("open", "true");
     }
 }
-</script>		   
+</script>
+
+<!-- <script> 
+function openSome(var num) {
+  var elems = document.getElementsByTagName("details");
+  document.getElementById("btnExpandHideDetails").innerHTML = "Collapse all topics";
+  document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
+
+  for (var i = 0; i <= num; i++){
+    elems[i].setAttribute("open", "true");
+    }
+}
+</script>
+	 -->
 	
 <script>
 function closeAll() {	
