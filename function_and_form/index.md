@@ -16,7 +16,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 1. Function and form in context:
 	- <details markdown="1">
 		<summary>The costs and benefits of functional design</summary> 
-		
+
 		- <details markdown="1">
 			<summary>Technology</summary>
 
