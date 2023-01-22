@@ -187,7 +187,7 @@ function openAll() {
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Collapse all topics";
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: closeAll();");
 
-  for (var i = 1; i <= elems.length; i++){
+  for (var i = 0; i <= elems.length; i++){
     elems[i].setAttribute("open", "true");
     }
 }
@@ -199,7 +199,7 @@ function closeAll() {
   document.getElementById("btnExpandHideAllDetails").setAttribute( "onClick", "javascript: openAll();" );
   document.getElementById("btnExpandHideAllDetails").innerHTML = "Expand all topics";	
   
-  for (var i = 1; i <= elems.length; i++){
+  for (var i = 0; i <= elems.length; i++){
     elems[i].removeAttribute("open");
   }
 }				   
