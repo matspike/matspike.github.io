@@ -9,7 +9,7 @@ All material for this course should be linked here, so if you have any questions
 
 ## Topics with selected readings
 
-Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested background readings for each, but note that these are **definitely not mandatory**: see this as the first port of call if you want to brush up on any of the topics. Of course, this list is far from exhaustive: for *more* detail, you should first go to the <a href="https://filedn.eu/lUsmXYfCms9zGht3yWAhVgj/zotero-site/" target="_blank">Zotero Page</a> I have curated for this class, which is split along the same categories as this list.
+Here is an overview of the topics we will be flying over at 50,000 feet: I've dropped in some suggested background readings for each, but note that these are **definitely not mandatory**: see this as the first port of call if you want to brush up on any of the topics. Of course, this list is far from exhaustive: for *more* detail, you should first go to the Zotero Page I have curated for this class, which is split along the same categories as this list.
 
 <button id="btnExpandHideAllDetails" onclick="openAll()" style="color:orange;background-color:#ffffff00;">Expand all topics</button>
 
