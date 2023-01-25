@@ -180,7 +180,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- Biological Pluralism in Biolinguistics [Martins et al 2016](https://doi.org/10.4324/9781315709529 "Martins, P. T., Boeckx, C., Benitez-Burraco, A., & Leivada, E. (2016). Biological pluralism in service of biolinguistics. In Advances in Biolinguistics: The human language faculty and its biological basis (1st ed.). Routledge. https://doi.org/10.4324/9781315709529")
 			- The no-half-merge fallacy [Martins & Boeckx 2019](https://doi.org/10.1371/journal.pbio.3000389 "Martins, P. T., & Boeckx, C. (2019). Language evolution and complexity considerations: The no half-Merge fallacy. PLOS Biology, 17(11), e3000389. https://doi.org/10.1371/journal.pbio.3000389")
 
-4.  Information Theory: function and form in generalised communication
+3.  Information Theory: function and form in generalised communication
 	- <details markdown="1">
 		<summary>Intros</summary>
 		
@@ -193,9 +193,19 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		
 		- Elements of Information Theory [Cover & Thomas 2006](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X "Cover, T. M., & Thomas, J. A. (2006). Elements of information theory (2nd ed). Wiley-Interscience. https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X")
 		- Information Theory, Inference, & Learning Algorithms [MacKay 2003](https://www.inference.org.uk/mackay/itila/ "MacKay, D. J. C. (2003). Information Theory, Inference, and Learning Algorithms. Cambridge University Press. https://www.inference.org.uk/mackay/itila/")
-6. 
-  
 
+4. Computation and Complexity 
+	- <details markdown="1">
+		<summary>Tractable Cognition</summary>
+
+		- Why Philosophers Should Care about Computational Complexity: [Aaronson 2013](https://doi.org/10.7551/mitpress/8009.003.0011 "Aaronson, S. (2013). Why Philosophers Should Care about Computational Complexity. In B. J. Copeland, C. J. Posy, & O. Shagrir (Eds.), Computability. The MIT Press. https://doi.org/10.7551/mitpress/8009.003.0011")
+		- The Tractable Cognition Thesis: [Van Rooij 2008](https://doi.org/10.1080/03640210801897856 "Van Rooij, I. (2008). The Tractable Cognition Thesis. Cognitive Science, 32(6), 939–984. https://doi.org/10.1080/03640210801897856")
+		- Cognition and Intractability: [Van Rooij et al 2019](https://doi.org/10.1017/9781107358331 "van Rooij, I., Blokpoel, M., Kwisthout, J., & Wareham, T. (2019). Cognition and Intractability: A Guide to Classical and Parameterized Complexity Analysis. Cambridge University Press. https://doi.org/10.1017/9781107358331")
+
+5. Evolutionary Modelling
+6. Efficiency-based explanations
+
+		
 <script> 
 function openAll() {
   var elems = document.getElementsByTagName("details");
