@@ -112,7 +112,7 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 			- As systems: [Hebets et al 2016](https://doi.org/10.1098/rspb.2015.2889 "Hebets, E. A., Barron, A. B., Balakrishnan, C. N., Hauber, M. E., Mason, P. H., & Hoke, K. L. (2016). A systems approach to animal communication. Proceedings of the Royal Society B: Biological Sciences, 283(1826), 20152889. https://doi.org/10.1098/rspb.2015.2889")
 
 		- <details markdown="1">
-			<summary>Diverse forms, limited functions:</summary>
+			<summary>Diverse forms, bounded functions:</summary>
 			
 			- <details markdown="1">
 				<summary>In the organism</summary>
@@ -148,36 +148,52 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		- <details markdown="1">
 			<summary>Manipulation, inclusive fitness, or group selection?</summary>
 
-			- [Owren et al 2010](https://doi.org/10.1007/s10539-010-9224-4 "Owren, M. J., Rendall, D., & Ryan, M. J. (2010). Redefining animal signaling: Influence versus information in communication. Biology & Philosophy, 25(5), 755–780. https://doi.org/10.1007/s10539-010-9224-4")
-			- Blip
-			- Blong	
+			- Influence vs information: [Owren et al 2010](https://doi.org/10.1007/s10539-010-9224-4 "Owren, M. J., Rendall, D., & Ryan, M. J. (2010). Redefining animal signaling: Influence versus information in communication. Biology & Philosophy, 25(5), 755–780. https://doi.org/10.1007/s10539-010-9224-4")
+			- Communication & manipulation: [López & Lombardi 2019](https://doi.org/10.1016/j.shpsa.2018.06.003 "López, C. A., & Lombardi, O. I. (2019). No communication without manipulation: A causal-deflationary view of information. Studies in History and Philosophy of Science Part A, 73, 34–43. https://doi.org/10.1016/j.shpsa.2018.06.003")
+			- Inclusive fitness and Honest Communication: [Bruner & Rubin 2020](https://doi.org/10.1093/bjps/axy028 "Bruner, J. P., & Rubin, H. (2020). Inclusive Fitness and the Problem of Honest Communication. The British Journal for the Philosophy of Science, 71(1), 115–137. https://doi.org/10.1093/bjps/axy028") 
+			- 'Social Semantics' and Group Selection: [West Griffin & Gardner 2007](https://doi.org/10.1111/j.1420-9101.2006.01258.x "West, S. A., Griffin, A. S., & Gardner, A. (2007). Social semantics: Altruism, cooperation, mutualism, strong reciprocity and group selection. Journal of Evolutionary Biology, 20(2), 415–432. https://doi.org/10.1111/j.1420-9101.2006.01258.x")
 	
 	- <details markdown="1">
 		<summary>Human communication</summary>
 		
 		- <details markdown="1">
-			<summary>Are language and communication co-extensive?</summary>
-			
-			- Bleepo
-			- Blloopo	
-			- yupj
+			<summary>Language and/or communication?</summary>
+			- Pragmatics and language evolution: [Scott-Phillips 2017](https://doi.org/10.3758/s13423-016-1061-2 "Scott-Phillips, T. C. (2017). Pragmatics and the aims of language evolution. Psychonomic Bulletin & Review, 24(1), 186–189. https://doi.org/10.3758/s13423-016-1061-2")
+			- Pragmatics-first language evolution: [Moore 2017](https://doi.org/10.1080/1047840X.2017.1338097 "Moore, R. (2017). Pragmatics-First Approaches to the Evolution of Language. Psychological Inquiry, 28(2–3), 206–210. https://doi.org/10.1080/1047840X.2017.1338097")
+			- From Code to Speaker Meaning: [Sterelny 2017](https://link.springer.com/article/10.1007/s10539-017-9597-8 "Sterelny, K. (2017). From code to speaker meaning. Biology & Philosophy, 32(6), 819–838. https://doi.org/10.1007/s10539-017-9597-8")
+			- Group selection and human cooperation: [Richerson et al 2016](https://doi.org/10.1017/S0140525X1400106X "Richerson, P., Baldini, R., Bell, A. V., Demps, K., Frost, K., Hillis, V., Mathew, S., Newton, E. K., Naar, N., Newson, L., Ross, C., Smaldino, P. E., Waring, T. M., & Zefferman, M. (2016). Cultural group selection plays an essential role in explaining human cooperation: A sketch of the evidence. Behavioral and Brain Sciences, 39, e30. https://doi.org/10.1017/S0140525X1400106X")
 
 		- <details markdown="1">
-			<summary>Diverse forms, unlimited function, and the role of pragmatics</summary>
+			<summary>Diverse forms & multimodality</summary>
 			
-			- Bleepo
-			- Blloopo	
-			- yupj
+			- Myth of Language Universals: [Evans & Levinson 2009](https://doi.org/10.1017/S0140525X0999094X "Evans, N., & Levinson, S. C. (2009). The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and Brain Sciences, 32(5), 429–448. https://doi.org/10.1017/S0140525X0999094X")
+			- Multimodality in human communication: [Levinson & Holler 2013](https://doi.org/10.1098/rstb.2013.0302 "Levinson, S. C., & Holler, J. (2014). The origin of human multi-modal communication. Philosophical Transactions of the Royal Society B: Biological Sciences, 369(1651), 20130302. https://doi.org/10.1098/rstb.2013.0302")	
+			- Multimodality in primate communication: [Slocombe Waller & Liebal 2011](https://doi.org/10.1016/j.anbehav.2011.02.002 "Slocombe, K. E., Waller, B. M., & Liebal, K. (2011). The language void: The need for multimodality in primate communication research. Animal Behaviour, 81(5), 919–924. https://doi.org/10.1016/j.anbehav.2011.02.002")
+			- Hearing & Seeing Meaning: [Özyürek 2014](https://doi.org/10.1098/rstb.2013.0296 "Özyürek, A. (2014). Hearing and seeing meaning in speech and gesture: Insights from brain and behaviour. Philosophical Transactions of the Royal Society B: Biological Sciences, 369(1651), 20130296. https://doi.org/10.1098/rstb.2013.0296")
 
 		- <details markdown="1">
-			<summary>Language design: thought or communication?</summary>
+			<summary>Language for thought or communication?</summary>
 			
-			- Bleepo
-			- Blloopo	
-			- yupj
+			- Why only us: [Chomsky & Berwick 2017](https://mitpress.mit.edu/9780262533492/why-only-us/ "Berwick, R. C., & Chomsky, N. (2016). Why only us: Language and evolution. MIT Press. https://mitpress.mit.edu/9780262533492/why-only-us/"
+			- More why only us: [Chomsky & Berwick 2017](https://doi.org/10/ggk8tp "Berwick, R. C., & Chomsky, N. (2017). Why only us: Recent questions and answers. Journal of Neurolinguistics, 43, 166–177. https://doi.org/10/ggk8tp"	
+			- How language couldn't have evolved: [Planer 2017](https://doi.org/10/ghn8mn "Planer, R. J. (2017). How language couldn’t have evolved: A critical examination of Berwick and Chomsky’s theory of language evolution. Biology & Philosophy, 32(6), 779–796. https://doi.org/10/ghn8mn"
+			- Biological Pluralism in Biolinguistics [Martins et al 2016](https://doi.org/10.4324/9781315709529 "Martins, P. T., Boeckx, C., Benitez-Burraco, A., & Leivada, E. (2016). Biological pluralism in service of biolinguistics. In Advances in Biolinguistics: The human language faculty and its biological basis (1st ed.). Routledge. https://doi.org/10.4324/9781315709529")
+			- The no-half-merge fallacy [Martins & Boeckx 2019](https://doi.org/10.1371/journal.pbio.3000389 "Martins, P. T., & Boeckx, C. (2019). Language evolution and complexity considerations: The no half-Merge fallacy. PLOS Biology, 17(11), e3000389. https://doi.org/10.1371/journal.pbio.3000389")
 
 4.  Information Theory: function and form in generalised communication
-5. 
+	- <details markdown="1">
+		<summary>Intros</summary>
+		
+		- Information Theory: A Tutorial Introduction [Stone 2015](https://arxiv.org/abs/1802.05968 "Stone, J. V. (2015). Information Theory: A Tutorial Introduction (1st ed.). Sebtel Press. https://arxiv.org/abs/1802.05968")
+		- Memory and the Computational Brain (Chapter 1): [Gallistel 2009](https://doi.org/10.1002/9781444310498 "Gallistel, C. R., & King, A. P. (2009). Memory and the Computational Brain. Wiley-Blackwell. https://doi.org/10.1002/9781444310498")
+		- Information, Mechanism and Meaning: [MacKay 1970](https://mitpress.mit.edu/9780262630320/information-mechanism-and-meaning/ "MacKay, D. M. (1970). Information, Mechanism and Meaning. MIT Press. https://mitpress.mit.edu/9780262630320/information-mechanism-and-meaning/")
+	
+	- <details markdown="1">
+		<summary>The Holy Books</summary>
+		
+		- Elements of Information Theory [Cover & Thomas 2006](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X "Cover, T. M., & Thomas, J. A. (2006). Elements of information theory (2nd ed). Wiley-Interscience. https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X")
+		- Information Theory, Inference, & Learning Algorithms [MacKay 2003](https://www.inference.org.uk/mackay/itila/ "MacKay, D. J. C. (2003). Information Theory, Inference, and Learning Algorithms. Cambridge University Press. https://www.inference.org.uk/mackay/itila/")
+6. 
   
 
 <script> 
