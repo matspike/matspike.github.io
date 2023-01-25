@@ -174,9 +174,9 @@ Here is an overview of the topics we will be flying over at 50,000 feet: I've dr
 		- <details markdown="1">
 			<summary>Language for thought or communication?</summary>
 			
-			- Why only us: [Chomsky & Berwick 2017](https://mitpress.mit.edu/9780262533492/why-only-us/ "Berwick, R. C., & Chomsky, N. (2016). Why only us: Language and evolution. MIT Press. https://mitpress.mit.edu/9780262533492/why-only-us/"
-			- More why only us: [Chomsky & Berwick 2017](https://doi.org/10/ggk8tp "Berwick, R. C., & Chomsky, N. (2017). Why only us: Recent questions and answers. Journal of Neurolinguistics, 43, 166–177. https://doi.org/10/ggk8tp"	
-			- How language couldn't have evolved: [Planer 2017](https://doi.org/10/ghn8mn "Planer, R. J. (2017). How language couldn’t have evolved: A critical examination of Berwick and Chomsky’s theory of language evolution. Biology & Philosophy, 32(6), 779–796. https://doi.org/10/ghn8mn"
+			- Why only us: [Chomsky & Berwick 2017](https://mitpress.mit.edu/9780262533492/why-only-us/ "Berwick, R. C., & Chomsky, N. (2016). Why only us: Language and evolution. MIT Press. https://mitpress.mit.edu/9780262533492/why-only-us/")
+			- More why only us: [Chomsky & Berwick 2017](https://doi.org/10/ggk8tp "Berwick, R. C., & Chomsky, N. (2017). Why only us: Recent questions and answers. Journal of Neurolinguistics, 43, 166–177. https://doi.org/10/ggk8tp")
+			- How language couldn't have evolved: [Planer 2017](https://doi.org/10/ghn8mn "Planer, R. J. (2017). How language couldn’t have evolved: A critical examination of Berwick and Chomsky’s theory of language evolution. Biology & Philosophy, 32(6), 779–796. https://doi.org/10/ghn8mn")
 			- Biological Pluralism in Biolinguistics [Martins et al 2016](https://doi.org/10.4324/9781315709529 "Martins, P. T., Boeckx, C., Benitez-Burraco, A., & Leivada, E. (2016). Biological pluralism in service of biolinguistics. In Advances in Biolinguistics: The human language faculty and its biological basis (1st ed.). Routledge. https://doi.org/10.4324/9781315709529")
 			- The no-half-merge fallacy [Martins & Boeckx 2019](https://doi.org/10.1371/journal.pbio.3000389 "Martins, P. T., & Boeckx, C. (2019). Language evolution and complexity considerations: The no half-Merge fallacy. PLOS Biology, 17(11), e3000389. https://doi.org/10.1371/journal.pbio.3000389")
 
