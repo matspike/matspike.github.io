@@ -5,21 +5,59 @@ layout: default
 # Matthew Spike
 
 ## Bio
-Cognitive scientist and linguist with a strong interdisciplinary background in the social and cognitive sciences and cutting-edge expertise in statistical modelling, data analysis, and machine learning. Harnessing the latest breakthroughs in computation, theory, and empirical research methods to devise and implement innovative solutions across linguistic, cognitive, and cultural applications. Bringing a diverse and broad experience spanning multiple international research collaborations, thousands of teaching contact-hours, a proven track record of effective communication to both general and specialist audiences, and a demonstrated ability to thrive under pressure while planning, coordinating, and delivering organisational and technical solutions.
+- Cognitive scientist and linguist with...
+  - a strong interdisciplinary background
+  - expertise in the social and cognitive sciences
+  - cutting-edge skills in AI, data science, modelling & ML
+- Harnessing the latest breakthroughs in...
+  - computation
+  - theory
+  - empirical research methods
+- Devising and implementing innovative solutions across...
+  - language
+  - cognition
+  - culture
+- Bringing a diverse and broad experience spanning...
+  - multiple international research collaborations
+  - thousands of teaching contact-hours
+  - a proven track record of effective communication to general & specialist audiences 
+  - a demonstrated ability to thrive under pressure
+  - planning, coordinating, and delivering organisational & technical solutions.
 
 ## Skills & Expertise
-• Communication & Leadership: Effectively articulating ideas, managing teams, and mentoring peers.
-• Collaboration & Mentorship: Fostering growth, development, and interdisciplinary collaboration.
-• Project Management: Directing projects from conception to completion and high-prestige publication.
-• Data Analysis & Modelling: Proficient in Python (pandas, NumPy, Mesa, PyMC3, SciPy, statsmodels) and R(tidyverse, dplyr, rjags, rstan, base, lme4, glmer, brms).
-• ML & NLP: Proficient in Python (scikit-learn, PyTorch, NLTK, spaCy) and R (caret, randomForest, tm).
-• Data Visualization & Web UX Design: Expertise in R (ggplot2, Shiny), Python (Seaborn, Plotly, bokeh, D3js,Flask, PsychoPy, & oTree), JavaScript (jsPsych, Node.js, React), and HTML, XML, CSS, SVG
-• Multilingual: Fluent in English and Turkish; working knowledge of Spanish and French.
-Additional Information:
-• UK, USA, & Irish nationality holding current passports for each.
-• Certificate in Teaching English to Speakers of Other Languages (2006)
+- Communication & Leadership:
+  - Effectively articulating ideas
+  - managing teams
+  - mentoring peers
+- Collaboration & Mentorship:
+  - Fostering growth
+  - Team development
+  - interdisciplinary collaboration.
+- Project Management:
+  - Overseeing projects
+  - Management from conception to completion
+  - high-prestige publications and presentations
+- Data Analysis & Modelling:
+  - Python (pandas, NumPy, Mesa, PyMC3, SciPy, statsmodels)
+  - R (tidyverse, dplyr, rjags, rstan, base, lme4, glmer, brms)
+- ML & NLP:
+  - Python (scikit-learn, PyTorch, NLTK, spaCy)
+  - R (caret, randomForest, tm)
+- Data Visualization & Web UX Design: 
+  - R (ggplot2, Shiny)
+  - Python (Seaborn, Plotly, bokeh, D3js,Flask, PsychoPy, & oTree)
+  - JavaScript (jsPsych, Node.js, React)
+  - HTML, XML, CSS, SVG
+- Multilingual:
+  - English
+  - Turkish
+  - Spanish
+  - French.
+- Also:
+  - UK, USA, & Irish nationality
+  - Certificate in Teaching English to Speakers of Other Languages (2006)
 
-## Output
+## Research Outputs
 - **The evolution of eavesdropping on heterospecific alarm calls: Relevance, reliability, and personal information**  
   CR Turner, M Spike, RD Magrath  
   [link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10272) | [pdf](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.10272) | Ecology and Evolution 13 (7), e10272, 2023
