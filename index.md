@@ -22,6 +22,7 @@ layout: default
   - planning, coordinating, and delivering organisational & technical solutions.
 
 ## Skills & Expertise
+
 ### Soft skills
 - Communication & Leadership:
   - articulating complex ideas
@@ -35,6 +36,7 @@ layout: default
   - Overseeing projects
   - Management from conception to completion
   - high-prestige publications and presentations
+
 ### Tech Skills
 - Data Analysis & Modelling:
   - Python (pandas, NumPy, Mesa, PyMC3, SciPy, statsmodels)
@@ -52,6 +54,7 @@ layout: default
   - Turkish
   - Spanish
   - French.
+
 ### Additional
   - UK, USA, & Irish nationality
   - Certificate in Teaching English to Speakers of Other Languages (2006)
