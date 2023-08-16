@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Matthew Spike
-
 ## Bio
 - Cognitive scientist and linguist with...
   - a strong interdisciplinary background
