@@ -20,13 +20,14 @@ layout: default
 - Bringing a diverse and broad experience spanning...
   - multiple international research collaborations
   - thousands of teaching contact-hours
-  - a proven track record of effective communication to general & specialist audiences 
+  - effective communication to general & specialist audiences 
   - a demonstrated ability to thrive under pressure
   - planning, coordinating, and delivering organisational & technical solutions.
 
 ## Skills & Expertise
+### Soft skills
 - Communication & Leadership:
-  - Effectively articulating ideas
+  - articulating complex ideas
   - managing teams
   - mentoring peers
 - Collaboration & Mentorship:
@@ -37,6 +38,7 @@ layout: default
   - Overseeing projects
   - Management from conception to completion
   - high-prestige publications and presentations
+### Tech Skills
 - Data Analysis & Modelling:
   - Python (pandas, NumPy, Mesa, PyMC3, SciPy, statsmodels)
   - R (tidyverse, dplyr, rjags, rstan, base, lme4, glmer, brms)
@@ -53,7 +55,7 @@ layout: default
   - Turkish
   - Spanish
   - French.
-- Also:
+### Additional
   - UK, USA, & Irish nationality
   - Certificate in Teaching English to Speakers of Other Languages (2006)
 
