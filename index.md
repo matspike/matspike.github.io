@@ -39,7 +39,7 @@ layout: default
 
 ### Tech Skills
 - Data Analysis & Modelling:
-  - Python (pandas, NumPy, Mesa, PyMC3, SciPy, statsmodels)
+  - Python (pandas, NumPy, pyro, PyMC3, SciPy, statsmodels)
   - R (tidyverse, dplyr, rjags, rstan, base, lme4, glmer, brms)
 - ML & NLP:
   - Python (scikit-learn, PyTorch, NLTK, spaCy)
